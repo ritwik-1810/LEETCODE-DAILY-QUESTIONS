@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ritwik-1810/ritwikkibua/tree/master/0037-sudoku-solver) |
 | [0787-sliding-puzzle](https://github.com/ritwik-1810/ritwikkibua/tree/master/0787-sliding-puzzle) |
 ## Dynamic Programming
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ritwik-1810/ritwikkibua/tree/master/0037-sudoku-solver) |
 | [0787-sliding-puzzle](https://github.com/ritwik-1810/ritwikkibua/tree/master/0787-sliding-puzzle) |
 ## Breadth-First Search
 |  |
@@ -26,5 +28,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ritwik-1810/ritwikkibua/tree/master/0037-sudoku-solver) |
 | [0787-sliding-puzzle](https://github.com/ritwik-1810/ritwikkibua/tree/master/0787-sliding-puzzle) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ritwik-1810/ritwikkibua/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
