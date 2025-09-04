@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3830-find-closest-person](https://github.com/ritwik-1810/ritwikkibua/tree/master/3830-find-closest-person) |
 ## Geometry
 |  |
 | ------- |
