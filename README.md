@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/ritwik-1810/ritwikkibua/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/ritwik-1810/ritwikkibua/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/ritwik-1810/ritwikkibua/tree/master/2023-design-movie-rental-system) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ritwik-1810/ritwikkibua/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3797-design-spreadsheet](https://github.com/ritwik-1810/ritwikkibua/tree/master/3797-design-spreadsheet) |
 ## Dynamic Programming
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ritwik-1810/ritwikkibua/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/ritwik-1810/ritwikkibua/tree/master/1612-avoid-flood-in-the-city) |
 | [2023-design-movie-rental-system](https://github.com/ritwik-1810/ritwikkibua/tree/master/2023-design-movie-rental-system) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ritwik-1810/ritwikkibua/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3797-design-spreadsheet](https://github.com/ritwik-1810/ritwikkibua/tree/master/3797-design-spreadsheet) |
 ## Greedy
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/ritwik-1810/ritwikkibua/tree/master/1018-largest-perimeter-triangle) |
 | [1612-avoid-flood-in-the-city](https://github.com/ritwik-1810/ritwikkibua/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/ritwik-1810/ritwikkibua/tree/master/1917-maximum-average-pass-ratio) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ritwik-1810/ritwikkibua/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ritwik-1810/ritwikkibua/tree/master/0013-roman-to-integer) |
 | [1018-largest-perimeter-triangle](https://github.com/ritwik-1810/ritwikkibua/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ritwik-1810/ritwikkibua/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ritwik-1810/ritwikkibua/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3830-find-closest-person](https://github.com/ritwik-1810/ritwikkibua/tree/master/3830-find-closest-person) |
 ## Geometry
