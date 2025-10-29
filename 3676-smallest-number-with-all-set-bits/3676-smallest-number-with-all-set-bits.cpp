@@ -2,16 +2,29 @@ class Solution {
 public:
     int smallestNumber(int n) {
 
-        
+        int bitmask=0;
 
-        int val=1;
+        int idx=1;
 
-        while(val<n)
+        for(int i=0;i<32;i++)
         {
-            val=(2*val)+1;
+            if((n & (1<<i))!=0)
+            {
+                idx=i;
+            }
         }
 
-        return val;
+        int m=n;
+        
+        for(int i=0;i<idx;i++)
+        {
+            if((n & (1<<i))==0)
+            {
+                m= (m | (1<<i));
+            }
+        }
+
+        return m;
 
         
     }
