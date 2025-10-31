@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/ritwik-1810/ritwikkibua/tree/master/2023-design-movie-rental-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ritwik-1810/ritwikkibua/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ritwik-1810/ritwikkibua/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3797-design-spreadsheet](https://github.com/ritwik-1810/ritwikkibua/tree/master/3797-design-spreadsheet) |
 ## Dynamic Programming
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/ritwik-1810/ritwikkibua/tree/master/1612-avoid-flood-in-the-city) |
 | [2023-design-movie-rental-system](https://github.com/ritwik-1810/ritwikkibua/tree/master/2023-design-movie-rental-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ritwik-1810/ritwikkibua/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ritwik-1810/ritwikkibua/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3797-design-spreadsheet](https://github.com/ritwik-1810/ritwikkibua/tree/master/3797-design-spreadsheet) |
 ## Greedy
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/ritwik-1810/ritwikkibua/tree/master/2481-strictly-palindromic-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ritwik-1810/ritwikkibua/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ritwik-1810/ritwikkibua/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ritwik-1810/ritwikkibua/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/ritwik-1810/ritwikkibua/tree/master/3830-find-closest-person) |
 ## Geometry
