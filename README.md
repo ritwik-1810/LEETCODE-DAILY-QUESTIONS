@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ritwik-1810/ritwikkibua/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0203-remove-linked-list-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0203-remove-linked-list-elements) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ritwik-1810/ritwikkibua/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
