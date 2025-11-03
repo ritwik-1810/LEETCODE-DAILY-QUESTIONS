@@ -74,20 +74,19 @@ public:
                {
                   prev->next=temp->next;
 
-                 // delete(temp);
+                  //delete(temp);
 
                   temp=prev->next;
                }
-
-               i++;
            
             }
             else
             {
-                i++;
                 prev=temp;
                 temp=temp->next;
             }
+
+            i++;
 
         }
 
