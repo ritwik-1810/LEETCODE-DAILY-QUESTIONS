@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ritwik-1810/ritwikkibua/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/ritwik-1810/ritwikkibua/tree/master/0037-sudoku-solver) |
 | [0347-top-k-frequent-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0347-top-k-frequent-elements) |
 | [0787-sliding-puzzle](https://github.com/ritwik-1810/ritwikkibua/tree/master/0787-sliding-puzzle) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ritwik-1810/ritwikkibua/tree/master/0015-3sum) |
 | [0347-top-k-frequent-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0347-top-k-frequent-elements) |
 | [1018-largest-perimeter-triangle](https://github.com/ritwik-1810/ritwikkibua/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ritwik-1810/ritwikkibua/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ritwik-1810/ritwikkibua/tree/master/0015-3sum) |
 | [2481-strictly-palindromic-number](https://github.com/ritwik-1810/ritwikkibua/tree/master/2481-strictly-palindromic-number) |
 ## Brainteaser
 |  |
