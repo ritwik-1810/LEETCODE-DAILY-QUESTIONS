@@ -4,25 +4,31 @@ public:
 
         int size=s.size();
 
-        unordered_set<int>st;
+        unordered_map<int,int>st;
 
         int maxi=0;
 
-        for(int i=0;i<size;i++)
+        int i=0;
+
+        int j=0;
+
+        while(j<size)
         {
-            st.clear();
+             st[s[j]]++;
 
-            for(int j=i;j<size;j++)
+            while(i<j && st[s[j]]>1)
             {
-                if(st.find(s[j])==st.end())
-                {
-                    st.insert(s[j]);
-                }
-                else
-                 break;
-            }
+                st[s[i]]--;
 
+                if(st[s[i]]==0)
+                  st.erase(s[i]);
+
+                i++;
+            }
+            
             maxi=max(maxi,(int)st.size());
+
+            j++;
         }
 
         return maxi;
