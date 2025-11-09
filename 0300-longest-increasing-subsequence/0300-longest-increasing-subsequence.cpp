@@ -4,38 +4,28 @@ public:
 
         int size=nums.size();
 
-        vector<int>ans(size,1);
+        vector<int>ans;
 
-        set<int>a;
+        ans.push_back(nums[0]);
 
-        for(int i=0;i<size;i++)
+        for(int i=1;i<size;i++)
         {
-            a.insert(nums[i]);
-        }
+            int val=nums[i];
 
-        if(a.size()==1) return 1;
+            auto idx=lower_bound(ans.begin(),ans.end(),val);
 
-        int prev=-1;
-
-        for(int i=0;i<size;i++)
-        {
-            for(int j=0;j<i;j++)
+            if(idx==ans.end())
             {
-                if(nums[i]>nums[j])
-                {
-                    ans[i]=max(ans[i],ans[j]+1);
-                }
+               ans.push_back(val);
             }
+            else
+            {
+                ans[idx-ans.begin()]=val;
+            }
+
         }
 
-        int maxi=0;
-
-        for(int i=0;i<size;i++)
-        {
-            maxi=max(maxi,ans[i]);
-        }
-
-        return maxi;
+        return ans.size();
         
         
     }
