@@ -8,8 +8,6 @@ public:
 
         int cnt=0;
 
-        int last=-1;
-
         int ans=0;
 
         for(int i=0;i<size-1;i++)
@@ -17,7 +15,6 @@ public:
             if(s[i]=='1')
             {
                 cnt+=1;
-                last=i;
             }
 
             if(s[i]=='1' && s[i+1]=='0')
