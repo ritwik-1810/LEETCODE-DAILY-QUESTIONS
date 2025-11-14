@@ -6,27 +6,23 @@ public:
 
         vector<int>ans;
 
-        ans.push_back(nums[0]);
-
-        for(int i=1;i<size;i++)
+        for(int i=0;i<size;i++)
         {
             int val=nums[i];
 
-            auto idx=lower_bound(ans.begin(),ans.end(),val);
+            int idx=lower_bound(ans.begin(),ans.end(),val)-ans.begin();
 
-            if(idx==ans.end())
+            if(idx==ans.size())
             {
-               ans.push_back(val);
+                ans.push_back(val);
             }
             else
             {
-                ans[idx-ans.begin()]=val;
+                ans[idx]=val;
             }
-
         }
+        
 
         return ans.size();
-        
-        
     }
 };
