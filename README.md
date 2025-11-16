@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ritwik-1810/ritwikkibua/tree/master/0070-climbing-stairs) |
 | [1018-largest-perimeter-triangle](https://github.com/ritwik-1810/ritwikkibua/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ritwik-1810/ritwikkibua/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/ritwik-1810/ritwikkibua/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2481-strictly-palindromic-number](https://github.com/ritwik-1810/ritwikkibua/tree/master/2481-strictly-palindromic-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ritwik-1810/ritwikkibua/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ritwik-1810/ritwikkibua/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/ritwik-1810/ritwikkibua/tree/master/0474-ones-and-zeroes) |
 | [0696-count-binary-substrings](https://github.com/ritwik-1810/ritwikkibua/tree/master/0696-count-binary-substrings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ritwik-1810/ritwikkibua/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/ritwik-1810/ritwikkibua/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ritwik-1810/ritwikkibua/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2887-sort-vowels-in-a-string](https://github.com/ritwik-1810/ritwikkibua/tree/master/2887-sort-vowels-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ritwik-1810/ritwikkibua/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
