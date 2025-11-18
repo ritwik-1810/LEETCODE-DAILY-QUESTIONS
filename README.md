@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/ritwik-1810/ritwikkibua/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0347-top-k-frequent-elements) |
 | [0474-ones-and-zeroes](https://github.com/ritwik-1810/ritwikkibua/tree/master/0474-ones-and-zeroes) |
+| [0621-task-scheduler](https://github.com/ritwik-1810/ritwikkibua/tree/master/0621-task-scheduler) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ritwik-1810/ritwikkibua/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0787-sliding-puzzle](https://github.com/ritwik-1810/ritwikkibua/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/ritwik-1810/ritwikkibua/tree/master/0794-swim-in-rising-water) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ritwik-1810/ritwikkibua/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/ritwik-1810/ritwikkibua/tree/master/0037-sudoku-solver) |
 | [0347-top-k-frequent-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/ritwik-1810/ritwikkibua/tree/master/0621-task-scheduler) |
 | [0837-most-common-word](https://github.com/ritwik-1810/ritwikkibua/tree/master/0837-most-common-word) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ritwik-1810/ritwikkibua/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/ritwik-1810/ritwikkibua/tree/master/1612-avoid-flood-in-the-city) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/ritwik-1810/ritwikkibua/tree/master/0334-increasing-triplet-subsequence) |
+| [0621-task-scheduler](https://github.com/ritwik-1810/ritwikkibua/tree/master/0621-task-scheduler) |
 | [1018-largest-perimeter-triangle](https://github.com/ritwik-1810/ritwikkibua/tree/master/1018-largest-perimeter-triangle) |
 | [1612-avoid-flood-in-the-city](https://github.com/ritwik-1810/ritwikkibua/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/ritwik-1810/ritwikkibua/tree/master/0621-task-scheduler) |
 | [0794-swim-in-rising-water](https://github.com/ritwik-1810/ritwikkibua/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/ritwik-1810/ritwikkibua/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/ritwik-1810/ritwikkibua/tree/master/1917-maximum-average-pass-ratio) |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ritwik-1810/ritwikkibua/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ritwik-1810/ritwikkibua/tree/master/0018-4sum) |
 | [0347-top-k-frequent-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/ritwik-1810/ritwikkibua/tree/master/0621-task-scheduler) |
 | [1018-largest-perimeter-triangle](https://github.com/ritwik-1810/ritwikkibua/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ritwik-1810/ritwikkibua/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2887-sort-vowels-in-a-string](https://github.com/ritwik-1810/ritwikkibua/tree/master/2887-sort-vowels-in-a-string) |
@@ -264,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/ritwik-1810/ritwikkibua/tree/master/0621-task-scheduler) |
 | [0837-most-common-word](https://github.com/ritwik-1810/ritwikkibua/tree/master/0837-most-common-word) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ritwik-1810/ritwikkibua/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Quickselect
