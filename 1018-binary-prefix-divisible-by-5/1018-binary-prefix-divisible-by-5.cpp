@@ -1,7 +1,7 @@
 class Solution {
 public:
-    vector<bool> prefixesDivBy5(vector<int>& nums) {
-
+    vector<bool> prefixesDivBy5(vector<int>& nums) 
+    {
         int size = nums.size();
 
         vector<bool>ans(size,false);
@@ -19,7 +19,7 @@ public:
 
         for(int i = 0 ; i < size ; i++)
         {
-            if(vec[i]%5==0)
+            if(vec[i]==0)
              ans[i]=true;
         }
 
