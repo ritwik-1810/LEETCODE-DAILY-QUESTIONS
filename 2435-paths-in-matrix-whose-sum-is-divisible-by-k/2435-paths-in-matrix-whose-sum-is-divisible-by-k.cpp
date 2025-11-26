@@ -1,35 +1,57 @@
 class Solution {
 public:
-    int m, n, K;
-    vector<unordered_map<int,int>> dp;
+    int row;
+    int col;
+    int s;
 
-    int solve(vector<vector<int>>& grid, int i, int j, int rem) {
-        if(i >= m || j >= n) return 0;
+    int MOD = 1e9+7;
 
-        int newRem = (rem + grid[i][j]) % K;
+    vector<vector<vector<int>>> dp;  // FIX #1: dynamic DP
 
-        if(i == m-1 && j == n-1)
-            return newRem == 0;
+    int solve(vector<vector<int>>& grid ,int i,int j,int row,int col,int rem,int k)
+    {
+         if(i>=row || j>=col)
+           return INT_MAX;
 
-        int pos = i * n + j;
+         if(i==row-1 && j==col-1)
+         {
+              if((grid[i][j]+rem)%k == 0) return 1;
 
-        if(dp[pos].count(rem)) return dp[pos][rem];
+              return INT_MAX;
+         }
 
-        long long ways = 0;
+         // FIX #2: correct index -> rem, not k
+         if(dp[i][j][rem] != -1) 
+             return dp[i][j][rem];
 
-        ways += solve(grid, i+1, j, newRem);
-        ways += solve(grid, i, j+1, newRem);
+         int ans = 0;
 
-        return dp[pos][rem] = ways % 1000000007;
+         int newRem = (grid[i][j] + rem) % k;
+
+         int down = solve(grid, i+1, j, row, col, newRem, k);
+
+         if(down != INT_MAX)
+             ans = (ans + down) % MOD;
+
+         int right = solve(grid, i, j+1, row, col, newRem, k);
+
+         if(right != INT_MAX)
+             ans = (ans + right) % MOD;
+
+         return dp[i][j][rem] = ans;
     }
 
     int numberOfPaths(vector<vector<int>>& grid, int k) {
-        m = grid.size();
-        n = grid[0].size();
-        K = k;
 
-        dp.resize(m * n);
+        row = grid.size();
+        col = grid[0].size();
+        // FIX #3: dynamic DP allocation instead of illegal static size
+        dp.assign(row, vector<vector<int>>(col, vector<int>(k, -1)));
 
-        return solve(grid, 0, 0, 0);
+        int ans = solve(grid, 0, 0, row, col, 0, k);
+
+        if(ans == INT_MAX) return 0;
+
+        return ans;
     }
 };
