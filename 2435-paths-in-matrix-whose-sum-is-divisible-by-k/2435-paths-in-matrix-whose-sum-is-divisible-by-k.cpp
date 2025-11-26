@@ -6,7 +6,7 @@ public:
 
     int MOD = 1e9+7;
 
-    vector<vector<vector<int>>> dp;  // FIX #1: dynamic DP
+    vector<vector<vector<int>>> dp;  
 
     int solve(vector<vector<int>>& grid ,int i,int j,int row,int col,int rem,int k)
     {
@@ -20,7 +20,6 @@ public:
               return INT_MAX;
          }
 
-         // FIX #2: correct index -> rem, not k
          if(dp[i][j][rem] != -1) 
              return dp[i][j][rem];
 
@@ -45,7 +44,7 @@ public:
 
         row = grid.size();
         col = grid[0].size();
-        // FIX #3: dynamic DP allocation instead of illegal static size
+       
         dp.assign(row, vector<vector<int>>(col, vector<int>(k, -1)));
 
         int ans = solve(grid, 0, 0, row, col, 0, k);
