@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ritwik-1810/ritwikkibua/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ritwik-1810/ritwikkibua/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/ritwik-1810/ritwikkibua/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ritwik-1810/ritwikkibua/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ritwik-1810/ritwikkibua/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2483-task-scheduler-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/2483-task-scheduler-ii) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ritwik-1810/ritwikkibua/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ritwik-1810/ritwikkibua/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -321,4 +323,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ritwik-1810/ritwikkibua/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2625-increment-submatrices-by-one](https://github.com/ritwik-1810/ritwikkibua/tree/master/2625-increment-submatrices-by-one) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 <!---LeetCode Topics End-->
