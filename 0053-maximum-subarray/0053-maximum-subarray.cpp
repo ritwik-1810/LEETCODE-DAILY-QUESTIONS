@@ -2,41 +2,23 @@ class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
 
-        int size=nums.size();
+        /*Simple Logic of kadane algo is ---> currmax = max(current element , abhi tak ka sum),
+           
+          keep updating ans=max(previous max , currmax);
 
-        int maxi=INT_MIN;
+        */
 
-        int sum=0;
+        int curr=0;
 
-        int cnt=0;
+        int ans=INT_MIN;
 
-        int mi=INT_MIN;
-
-        for(int i=0;i<size;i++)
+        for(auto c:nums)
         {
-            if(nums[i]<0)
-             cnt+=1;
-            
-            mi=max(mi,nums[i]);
-            
+            curr=max(c,curr+c);
+
+            ans=max(ans,curr);
         }
 
-        if(cnt==size) return mi;
-        
-        for(int i=0;i<size;i++)
-        {
-            sum+=nums[i];
-
-            if(sum<0)
-            {
-                sum=0;
-            }
-
-            maxi=max(sum,maxi);
-        }
-
-        return maxi;
-
-        
+        return ans;
     }
 };
