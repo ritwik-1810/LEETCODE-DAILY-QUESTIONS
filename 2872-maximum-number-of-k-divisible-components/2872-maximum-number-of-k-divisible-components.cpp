@@ -1,45 +1,59 @@
 class Solution {
 public:
-    long long dfs(int i, unordered_map<int,vector<int>>& adj,
-                  vector<bool>& vis, vector<int>& values, 
-                  int k, int& cnt)
+    long long dfs(int i , unordered_map<int,vector<int>>&adj , vector<bool>&vis , vector<int>& values , int k ,int &cnt)
     {
-        vis[i] = true;
+         vis[i]=true;
 
-        long long sum = values[i];
+         long long sum=values[i];
 
-        for (int t : adj[i]) {
+         for(auto t:adj[i])
+         {
+              if(!vis[t])
+              {
+                long long children = dfs(t,adj,vis,values,k,cnt);
 
-            if (!vis[t]) {
-                long long child = dfs(t, adj, vis, values, k, cnt);
-                sum += child;
-            }
-        }
+                sum+=children;
 
-        // if this subtree forms a valid component
-        if (sum % k == 0) {
-            cnt++;
-            return 0;   // cut here
-        }
+              }
+              
+         }
 
-        return sum;
+         if(sum%k==0) {
+
+                 cnt++;
+
+                 return 0;  
+
+         }
+
+         return sum;
+
+         
     }
+    int maxKDivisibleComponents(int n, vector<vector<int>>& edges, vector<int>& values, int k) {
 
-    int maxKDivisibleComponents(int n, vector<vector<int>>& edges,
-                                vector<int>& values, int k)
-    {
-        unordered_map<int, vector<int>> adj;
-        for (auto& e : edges) {
-            adj[e[0]].push_back(e[1]);
-            adj[e[1]].push_back(e[0]);
+        int size = values.size();
+
+        unordered_map<int,vector<int>>adj;
+
+        for(int i=0;i<edges.size();i++)
+        {
+            int u = edges[i][0];
+
+            int v = edges[i][1];
+
+            adj[u].push_back(v);
+
+            adj[v].push_back(u);
         }
 
-        vector<bool> vis(n, false);
-        
-        int cnt = 0;
+        int cnt=0;
 
-        dfs(0, adj, vis, values, k, cnt);
+        vector<bool>vis(size,false);
+
+        long long sum=dfs(0,adj,vis,values,k,cnt);
 
         return cnt;
+        
     }
 };
