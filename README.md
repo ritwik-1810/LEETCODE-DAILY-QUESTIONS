@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ritwik-1810/ritwikkibua/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/ritwik-1810/ritwikkibua/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0347-top-k-frequent-elements) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0474-ones-and-zeroes](https://github.com/ritwik-1810/ritwikkibua/tree/master/0474-ones-and-zeroes) |
 | [0621-task-scheduler](https://github.com/ritwik-1810/ritwikkibua/tree/master/0621-task-scheduler) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ritwik-1810/ritwikkibua/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ritwik-1810/ritwikkibua/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/ritwik-1810/ritwikkibua/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/ritwik-1810/ritwikkibua/tree/master/0089-gray-code) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/ritwik-1810/ritwikkibua/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ritwik-1810/ritwikkibua/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
