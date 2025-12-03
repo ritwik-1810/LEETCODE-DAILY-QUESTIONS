@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ritwik-1810/ritwikkibua/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/ritwik-1810/ritwikkibua/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/ritwik-1810/ritwikkibua/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ritwik-1810/ritwikkibua/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/ritwik-1810/ritwikkibua/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/ritwik-1810/ritwikkibua/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0347-top-k-frequent-elements) |
@@ -289,11 +290,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ritwik-1810/ritwikkibua/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ritwik-1810/ritwikkibua/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ritwik-1810/ritwikkibua/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ritwik-1810/ritwikkibua/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ritwik-1810/ritwikkibua/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Recursion
 |  |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ritwik-1810/ritwikkibua/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ritwik-1810/ritwikkibua/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -348,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ritwik-1810/ritwikkibua/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2625-increment-submatrices-by-one](https://github.com/ritwik-1810/ritwikkibua/tree/master/2625-increment-submatrices-by-one) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ritwik-1810/ritwikkibua/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
