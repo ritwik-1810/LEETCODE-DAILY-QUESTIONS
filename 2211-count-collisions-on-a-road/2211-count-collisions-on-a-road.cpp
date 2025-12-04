@@ -12,19 +12,20 @@ public:
         {
            if(directions[i]=='R')
            {
-              st.push('R');
+              st.push(directions[i]);
            }
            else if(directions[i]=='S')
            {
                while(!st.empty() && st.top()=='R')
                {
                    count+=1;
+
                    st.pop();
                }
 
-               st.push('S');
+               st.push(directions[i]);
            }
-           else if(directions[i]=='L')
+           else
            {
                if(!st.empty())
                {
@@ -42,10 +43,7 @@ public:
 
                      st.push('S');
                   }
-                  else if(st.top()=='S')
-                  {
-                     count+=1;
-                  }
+                  else count+=1;
                }
            }
         }
