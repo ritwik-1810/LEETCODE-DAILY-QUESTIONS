@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/ritwik-1810/ritwikkibua/tree/master/0474-ones-and-zeroes) |
 | [0621-task-scheduler](https://github.com/ritwik-1810/ritwikkibua/tree/master/0621-task-scheduler) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ritwik-1810/ritwikkibua/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0735-asteroid-collision](https://github.com/ritwik-1810/ritwikkibua/tree/master/0735-asteroid-collision) |
 | [0741-cherry-pickup](https://github.com/ritwik-1810/ritwikkibua/tree/master/0741-cherry-pickup) |
 | [0757-set-intersection-size-at-least-two](https://github.com/ritwik-1810/ritwikkibua/tree/master/0757-set-intersection-size-at-least-two) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ritwik-1810/ritwikkibua/tree/master/0759-set-intersection-size-at-least-two) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/ritwik-1810/ritwikkibua/tree/master/0735-asteroid-collision) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/ritwik-1810/ritwikkibua/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2211-count-collisions-on-a-road](https://github.com/ritwik-1810/ritwikkibua/tree/master/2211-count-collisions-on-a-road) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/ritwik-1810/ritwikkibua/tree/master/0735-asteroid-collision) |
 | [2211-count-collisions-on-a-road](https://github.com/ritwik-1810/ritwikkibua/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ritwik-1810/ritwikkibua/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/2343-count-unguarded-cells-in-the-grid) |
