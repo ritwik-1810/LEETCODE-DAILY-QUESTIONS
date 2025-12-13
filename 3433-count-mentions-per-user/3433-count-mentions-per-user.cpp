@@ -3,13 +3,12 @@ public:
     static bool mycomp(const vector<string>&a ,const vector<string>&b)
     {
        int t1 = stoi(a[1]);
-    int t2 = stoi(b[1]);
+       int t2 = stoi(b[1]);
 
-    if (t1 != t2)
-        return t1 < t2;
+    if (t1 == t2)
+        return a[0][0] >  b[0][0];
 
-    // same time → OFFLINE first
-    return a[0] == "OFFLINE" && b[0] == "MESSAGE";
+    return t1 < t2;
     }
     void changeMention(vector<string>& eve,set<int>&st, vector<int>&mentions)
     {
