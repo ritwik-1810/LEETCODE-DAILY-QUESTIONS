@@ -1,6 +1,6 @@
 class Solution {
 public:
-     long long dp[1001][1001][3];
+    long long dp[1001][1001][3];
     long long solve(vector<int>& prices,int k,int idx,int mode)
     {
         
@@ -8,7 +8,7 @@ public:
         {
             if(mode==0) return 0;
 
-            return INT_MIN/2; 
+            return INT_MIN; 
         }
         
          if (dp[idx][k][mode] != -1)
