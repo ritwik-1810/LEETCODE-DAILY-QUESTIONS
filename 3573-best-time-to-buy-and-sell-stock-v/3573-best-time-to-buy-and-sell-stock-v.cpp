@@ -1,6 +1,6 @@
 class Solution {
 public:
-    long long dp[1001][1001][3];
+    long long dp[1001][501][3];
     long long solve(vector<int>& prices,int k,int idx,int mode)
     {
         
@@ -33,7 +33,7 @@ public:
         { 
             take=max(-prices[idx] + solve(prices,k,idx+1,2),
         
-               prices[idx] + solve(prices,k,idx+1,1));
+            prices[idx] + solve(prices,k,idx+1,1));
         }
         }
 
