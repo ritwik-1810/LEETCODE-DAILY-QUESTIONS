@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/ritwik-1810/ritwikkibua/tree/master/0794-swim-in-rising-water) |
 | [0837-most-common-word](https://github.com/ritwik-1810/ritwikkibua/tree/master/0837-most-common-word) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ritwik-1810/ritwikkibua/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/ritwik-1810/ritwikkibua/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ritwik-1810/ritwikkibua/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ritwik-1810/ritwikkibua/tree/master/0621-task-scheduler) |
 | [0757-set-intersection-size-at-least-two](https://github.com/ritwik-1810/ritwikkibua/tree/master/0757-set-intersection-size-at-least-two) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ritwik-1810/ritwikkibua/tree/master/0759-set-intersection-size-at-least-two) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/ritwik-1810/ritwikkibua/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ritwik-1810/ritwikkibua/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1612-avoid-flood-in-the-city](https://github.com/ritwik-1810/ritwikkibua/tree/master/1612-avoid-flood-in-the-city) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/ritwik-1810/ritwikkibua/tree/master/0696-count-binary-substrings) |
 | [0837-most-common-word](https://github.com/ritwik-1810/ritwikkibua/tree/master/0837-most-common-word) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ritwik-1810/ritwikkibua/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ritwik-1810/ritwikkibua/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ritwik-1810/ritwikkibua/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ritwik-1810/ritwikkibua/tree/master/1700-minimum-time-to-make-rope-colorful) |
