@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ritwik-1810/ritwikkibua/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/ritwik-1810/ritwikkibua/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2211-count-collisions-on-a-road](https://github.com/ritwik-1810/ritwikkibua/tree/master/2211-count-collisions-on-a-road) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/ritwik-1810/ritwikkibua/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/ritwik-1810/ritwikkibua/tree/master/2887-sort-vowels-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ritwik-1810/ritwikkibua/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ritwik-1810/ritwikkibua/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/ritwik-1810/ritwikkibua/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ritwik-1810/ritwikkibua/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/ritwik-1810/ritwikkibua/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2625-increment-submatrices-by-one](https://github.com/ritwik-1810/ritwikkibua/tree/master/2625-increment-submatrices-by-one) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ritwik-1810/ritwikkibua/tree/master/3432-count-partitions-with-even-sum-difference) |
