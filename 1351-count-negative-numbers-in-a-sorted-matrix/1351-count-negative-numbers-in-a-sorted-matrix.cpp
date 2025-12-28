@@ -19,10 +19,7 @@ public:
                 j--;
             }
                
-             if(j>=0)
-            
-            count+=(col-j-1);
-
+            if(j>=0) count+=(col-j-1);
             else count+=col;
             
             i+=1;
