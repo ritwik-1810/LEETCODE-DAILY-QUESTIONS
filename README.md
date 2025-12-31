@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/ritwik-1810/ritwikkibua/tree/master/0037-sudoku-solver) |
 | [0089-gray-code](https://github.com/ritwik-1810/ritwikkibua/tree/master/0089-gray-code) |
+| [0756-pyramid-transition-matrix](https://github.com/ritwik-1810/ritwikkibua/tree/master/0756-pyramid-transition-matrix) |
 | [0787-sliding-puzzle](https://github.com/ritwik-1810/ritwikkibua/tree/master/0787-sliding-puzzle) |
 ## Breadth-First Search
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ritwik-1810/ritwikkibua/tree/master/0037-sudoku-solver) |
 | [0347-top-k-frequent-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ritwik-1810/ritwikkibua/tree/master/0621-task-scheduler) |
+| [0756-pyramid-transition-matrix](https://github.com/ritwik-1810/ritwikkibua/tree/master/0756-pyramid-transition-matrix) |
 | [0837-most-common-word](https://github.com/ritwik-1810/ritwikkibua/tree/master/0837-most-common-word) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ritwik-1810/ritwikkibua/tree/master/0013-roman-to-integer) |
 | [0474-ones-and-zeroes](https://github.com/ritwik-1810/ritwikkibua/tree/master/0474-ones-and-zeroes) |
 | [0696-count-binary-substrings](https://github.com/ritwik-1810/ritwikkibua/tree/master/0696-count-binary-substrings) |
+| [0756-pyramid-transition-matrix](https://github.com/ritwik-1810/ritwikkibua/tree/master/0756-pyramid-transition-matrix) |
 | [0837-most-common-word](https://github.com/ritwik-1810/ritwikkibua/tree/master/0837-most-common-word) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ritwik-1810/ritwikkibua/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/ritwik-1810/ritwikkibua/tree/master/0089-gray-code) |
+| [0756-pyramid-transition-matrix](https://github.com/ritwik-1810/ritwikkibua/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ritwik-1810/ritwikkibua/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ritwik-1810/ritwikkibua/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ritwik-1810/ritwikkibua/tree/master/3676-smallest-number-with-all-set-bits) |
