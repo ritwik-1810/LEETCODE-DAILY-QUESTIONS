@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ritwik-1810/ritwikkibua/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/ritwik-1810/ritwikkibua/tree/master/3433-count-mentions-per-user) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/ritwik-1810/ritwikkibua/tree/master/3531-count-covered-buildings) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ritwik-1810/ritwikkibua/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ritwik-1810/ritwikkibua/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/ritwik-1810/ritwikkibua/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ritwik-1810/ritwikkibua/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/ritwik-1810/ritwikkibua/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/ritwik-1810/ritwikkibua/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/ritwik-1810/ritwikkibua/tree/master/2054-two-best-non-overlapping-events) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/ritwik-1810/ritwikkibua/tree/master/3863-power-grid-maintenance) |
 ## Math
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2023-design-movie-rental-system](https://github.com/ritwik-1810/ritwikkibua/tree/master/2023-design-movie-rental-system) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3863-power-grid-maintenance](https://github.com/ritwik-1810/ritwikkibua/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0203-remove-linked-list-elements) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ritwik-1810/ritwikkibua/tree/master/2573-remove-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Tree
 |  |
 | ------- |
@@ -364,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2483-task-scheduler-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/2483-task-scheduler-ii) |
 | [3433-count-mentions-per-user](https://github.com/ritwik-1810/ritwikkibua/tree/master/3433-count-mentions-per-user) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -423,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/ritwik-1810/ritwikkibua/tree/master/0684-redundant-connection) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
