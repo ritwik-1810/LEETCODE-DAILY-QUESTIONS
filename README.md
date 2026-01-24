@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ritwik-1810/ritwikkibua/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0684-redundant-connection](https://github.com/ritwik-1810/ritwikkibua/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/ritwik-1810/ritwikkibua/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/ritwik-1810/ritwikkibua/tree/master/0794-swim-in-rising-water) |
 | [0841-keys-and-rooms](https://github.com/ritwik-1810/ritwikkibua/tree/master/0841-keys-and-rooms) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ritwik-1810/ritwikkibua/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0684-redundant-connection](https://github.com/ritwik-1810/ritwikkibua/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/ritwik-1810/ritwikkibua/tree/master/0794-swim-in-rising-water) |
 | [0841-keys-and-rooms](https://github.com/ritwik-1810/ritwikkibua/tree/master/0841-keys-and-rooms) |
 | [2092-find-all-people-with-secret](https://github.com/ritwik-1810/ritwikkibua/tree/master/2092-find-all-people-with-secret) |
@@ -413,4 +415,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ritwik-1810/ritwikkibua/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/ritwik-1810/ritwikkibua/tree/master/0684-redundant-connection) |
+## Graph Theory
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/ritwik-1810/ritwikkibua/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
