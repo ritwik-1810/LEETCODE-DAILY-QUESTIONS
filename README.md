@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ritwik-1810/ritwikkibua/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/ritwik-1810/ritwikkibua/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1854-maximum-population-year](https://github.com/ritwik-1810/ritwikkibua/tree/master/1854-maximum-population-year) |
 | [1917-maximum-average-pass-ratio](https://github.com/ritwik-1810/ritwikkibua/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/ritwik-1810/ritwikkibua/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/ritwik-1810/ritwikkibua/tree/master/2054-two-best-non-overlapping-events) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ritwik-1810/ritwikkibua/tree/master/0621-task-scheduler) |
 | [0837-most-common-word](https://github.com/ritwik-1810/ritwikkibua/tree/master/0837-most-common-word) |
+| [1854-maximum-population-year](https://github.com/ritwik-1810/ritwikkibua/tree/master/1854-maximum-population-year) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ritwik-1810/ritwikkibua/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Quickselect
 |  |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/ritwik-1810/ritwikkibua/tree/master/1590-make-sum-divisible-by-p) |
+| [1854-maximum-population-year](https://github.com/ritwik-1810/ritwikkibua/tree/master/1854-maximum-population-year) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ritwik-1810/ritwikkibua/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ritwik-1810/ritwikkibua/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2625-increment-submatrices-by-one](https://github.com/ritwik-1810/ritwikkibua/tree/master/2625-increment-submatrices-by-one) |
