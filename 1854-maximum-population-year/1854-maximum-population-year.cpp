@@ -24,7 +24,7 @@ public:
            
            if(a>maxi)
            {
-              a=maxi;
+              maxi=a;
 
               val=v.first;
            }
