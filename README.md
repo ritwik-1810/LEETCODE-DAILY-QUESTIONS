@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2483-task-scheduler-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/2483-task-scheduler-ii) |
+| [2615-sum-of-distances](https://github.com/ritwik-1810/ritwikkibua/tree/master/2615-sum-of-distances) |
 | [2625-increment-submatrices-by-one](https://github.com/ritwik-1810/ritwikkibua/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ritwik-1810/ritwikkibua/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ritwik-1810/ritwikkibua/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2186-count-vowel-substrings-of-a-string](https://github.com/ritwik-1810/ritwikkibua/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ritwik-1810/ritwikkibua/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2483-task-scheduler-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/2483-task-scheduler-ii) |
+| [2615-sum-of-distances](https://github.com/ritwik-1810/ritwikkibua/tree/master/2615-sum-of-distances) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ritwik-1810/ritwikkibua/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ritwik-1810/ritwikkibua/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1943-describe-the-painting](https://github.com/ritwik-1810/ritwikkibua/tree/master/1943-describe-the-painting) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ritwik-1810/ritwikkibua/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2615-sum-of-distances](https://github.com/ritwik-1810/ritwikkibua/tree/master/2615-sum-of-distances) |
 | [2625-increment-submatrices-by-one](https://github.com/ritwik-1810/ritwikkibua/tree/master/2625-increment-submatrices-by-one) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ritwik-1810/ritwikkibua/tree/master/3432-count-partitions-with-even-sum-difference) |
