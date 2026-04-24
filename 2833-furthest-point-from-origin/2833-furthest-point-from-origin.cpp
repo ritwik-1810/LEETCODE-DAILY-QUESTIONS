@@ -4,10 +4,7 @@ public:
 
         int size = moves.size();
 
-        if(size==2)
-        {
-            if(moves[0]!=moves[1] && moves[0]!='_' && moves[1]!='_') return 0;
-        }
+       
 
         string strLeft=moves;
 
