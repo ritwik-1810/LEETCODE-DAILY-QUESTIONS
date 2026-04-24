@@ -2,13 +2,13 @@ class Solution {
 public:
     vector<long long> distance(vector<int>& nums) {
 
-        unordered_map<int,long long>mp;
+        unordered_map<int,long long>totalSum;
 
-        unordered_map<int,long long>mp1;
+        unordered_map<int,long long>leftSum;
 
-        unordered_map<int ,int>freq;
+        unordered_map<int ,int>totalFreq;
 
-        unordered_map<int ,int>freq1;
+        unordered_map<int ,int>leftFreq;
 
         int size=nums.size();
 
@@ -16,28 +16,27 @@ public:
 
         for(int i=0;i<nums.size();i++)
         {
-           mp[nums[i]]+=i;
+           totalSum[nums[i]]+=i;
 
-           freq[nums[i]]+=1;
+           totalFreq[nums[i]]+=1;
         }
 
         for(int i=0;i<nums.size();i++)
         {
             long long val=0;
 
-
-            if(freq[nums[i]]>1)
+            if(totalFreq[nums[i]]>1)
             {
-                long long f1=freq1[nums[i]];
+                long long f1=leftFreq[nums[i]];
 
-                long long s1=mp1[nums[i]];
+                long long s1=leftSum[nums[i]];
 
                 long long left=(i*f1)-s1;
 
 
-                long long f2=freq[nums[i]]-freq1[nums[i]]-1;
+                long long f2=totalFreq[nums[i]]-leftFreq[nums[i]]-1;
 
-                long long s2=mp[nums[i]]-mp1[nums[i]]-i;
+                long long s2=totalSum[nums[i]]-leftSum[nums[i]]-i;
 
                 long long right=s2-(i*f2);
 
@@ -45,8 +44,8 @@ public:
 
             }
 
-            mp1[nums[i]]+=i;
-            freq1[nums[i]]++;
+            leftSum[nums[i]]+=i;
+            leftFreq[nums[i]]++;
             ans[i]=val;
         }
         
