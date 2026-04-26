@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ritwik-1810/ritwikkibua/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ritwik-1810/ritwikkibua/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ritwik-1810/ritwikkibua/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1590-make-sum-divisible-by-p](https://github.com/ritwik-1810/ritwikkibua/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/ritwik-1810/ritwikkibua/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/ritwik-1810/ritwikkibua/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/ritwik-1810/ritwikkibua/tree/master/0794-swim-in-rising-water) |
 | [0841-keys-and-rooms](https://github.com/ritwik-1810/ritwikkibua/tree/master/0841-keys-and-rooms) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2092-find-all-people-with-secret](https://github.com/ritwik-1810/ritwikkibua/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/ritwik-1810/ritwikkibua/tree/master/3863-power-grid-maintenance) |
 ## Memoization
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/ritwik-1810/ritwikkibua/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/ritwik-1810/ritwikkibua/tree/master/0794-swim-in-rising-water) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ritwik-1810/ritwikkibua/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/ritwik-1810/ritwikkibua/tree/master/2625-increment-submatrices-by-one) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/ritwik-1810/ritwikkibua/tree/master/0794-swim-in-rising-water) |
 | [0841-keys-and-rooms](https://github.com/ritwik-1810/ritwikkibua/tree/master/0841-keys-and-rooms) |
 | [1382-balance-a-binary-search-tree](https://github.com/ritwik-1810/ritwikkibua/tree/master/1382-balance-a-binary-search-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2092-find-all-people-with-secret](https://github.com/ritwik-1810/ritwikkibua/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ritwik-1810/ritwikkibua/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/ritwik-1810/ritwikkibua/tree/master/3863-power-grid-maintenance) |
@@ -450,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/ritwik-1810/ritwikkibua/tree/master/0684-redundant-connection) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Graph Theory
 |  |
 | ------- |
