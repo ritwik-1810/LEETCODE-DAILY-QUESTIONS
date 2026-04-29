@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/ritwik-1810/ritwikkibua/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ritwik-1810/ritwikkibua/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ritwik-1810/ritwikkibua/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ritwik-1810/ritwikkibua/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ritwik-1810/ritwikkibua/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/ritwik-1810/ritwikkibua/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/ritwik-1810/ritwikkibua/tree/master/0794-swim-in-rising-water) |
 | [0841-keys-and-rooms](https://github.com/ritwik-1810/ritwikkibua/tree/master/0841-keys-and-rooms) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2092-find-all-people-with-secret](https://github.com/ritwik-1810/ritwikkibua/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/ritwik-1810/ritwikkibua/tree/master/3863-power-grid-maintenance) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/ritwik-1810/ritwikkibua/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/ritwik-1810/ritwikkibua/tree/master/0794-swim-in-rising-water) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ritwik-1810/ritwikkibua/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/ritwik-1810/ritwikkibua/tree/master/0794-swim-in-rising-water) |
 | [0841-keys-and-rooms](https://github.com/ritwik-1810/ritwikkibua/tree/master/0841-keys-and-rooms) |
 | [1382-balance-a-binary-search-tree](https://github.com/ritwik-1810/ritwikkibua/tree/master/1382-balance-a-binary-search-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2092-find-all-people-with-secret](https://github.com/ritwik-1810/ritwikkibua/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ritwik-1810/ritwikkibua/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -454,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/ritwik-1810/ritwikkibua/tree/master/0684-redundant-connection) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Graph Theory
 |  |
