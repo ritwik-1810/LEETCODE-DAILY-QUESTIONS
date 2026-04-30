@@ -18,8 +18,6 @@ public:
           }
        }
 
-       if(val.size()==1) return 0;
-
        sort(val.begin(),val.end());
 
        int mini = 0;
