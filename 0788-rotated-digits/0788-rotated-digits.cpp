@@ -1,0 +1,35 @@
+class Solution {
+public:
+    int rotatedDigits(int n) {
+
+        int count=0;
+
+        for(int i=1;i<=n;i++)
+        {
+            int num=i;
+
+            bool flag=false;
+
+            bool invalid=false;
+
+            while(num!=0)
+            {
+                int d=num%10;
+
+                if(d==3 || d==4 || d==7) invalid=true;
+
+                if(d==2 || d==5 || d==6 || d==9)
+                { 
+                  flag=true;
+                }
+
+                num/=10;
+            }
+
+            if(flag==true && invalid==false) count+=1;
+        }
+
+        return count;
+        
+    }
+};
