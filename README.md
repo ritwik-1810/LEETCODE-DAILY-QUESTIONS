@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/ritwik-1810/ritwikkibua/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ritwik-1810/ritwikkibua/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ritwik-1810/ritwikkibua/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1306-jump-game-iii](https://github.com/ritwik-1810/ritwikkibua/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ritwik-1810/ritwikkibua/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ritwik-1810/ritwikkibua/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ritwik-1810/ritwikkibua/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/ritwik-1810/ritwikkibua/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/ritwik-1810/ritwikkibua/tree/master/0794-swim-in-rising-water) |
 | [0841-keys-and-rooms](https://github.com/ritwik-1810/ritwikkibua/tree/master/0841-keys-and-rooms) |
+| [1306-jump-game-iii](https://github.com/ritwik-1810/ritwikkibua/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ritwik-1810/ritwikkibua/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/ritwik-1810/ritwikkibua/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/ritwik-1810/ritwikkibua/tree/master/0794-swim-in-rising-water) |
 | [0841-keys-and-rooms](https://github.com/ritwik-1810/ritwikkibua/tree/master/0841-keys-and-rooms) |
+| [1306-jump-game-iii](https://github.com/ritwik-1810/ritwikkibua/tree/master/1306-jump-game-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/ritwik-1810/ritwikkibua/tree/master/1382-balance-a-binary-search-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/1559-detect-cycles-in-2d-grid) |
