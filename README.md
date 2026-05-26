@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/ritwik-1810/ritwikkibua/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ritwik-1810/ritwikkibua/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1871-jump-game-vii](https://github.com/ritwik-1810/ritwikkibua/tree/master/1871-jump-game-vii) |
 | [2054-two-best-non-overlapping-events](https://github.com/ritwik-1810/ritwikkibua/tree/master/2054-two-best-non-overlapping-events) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ritwik-1810/ritwikkibua/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ritwik-1810/ritwikkibua/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ritwik-1810/ritwikkibua/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ritwik-1810/ritwikkibua/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1871-jump-game-vii](https://github.com/ritwik-1810/ritwikkibua/tree/master/1871-jump-game-vii) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/ritwik-1810/ritwikkibua/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ritwik-1810/ritwikkibua/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/ritwik-1810/ritwikkibua/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritwik-1810/ritwikkibua/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1871-jump-game-vii](https://github.com/ritwik-1810/ritwikkibua/tree/master/1871-jump-game-vii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ritwik-1810/ritwikkibua/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Divide and Conquer
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/ritwik-1810/ritwikkibua/tree/master/1590-make-sum-divisible-by-p) |
 | [1854-maximum-population-year](https://github.com/ritwik-1810/ritwikkibua/tree/master/1854-maximum-population-year) |
+| [1871-jump-game-vii](https://github.com/ritwik-1810/ritwikkibua/tree/master/1871-jump-game-vii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ritwik-1810/ritwikkibua/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1943-describe-the-painting](https://github.com/ritwik-1810/ritwikkibua/tree/master/1943-describe-the-painting) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ritwik-1810/ritwikkibua/tree/master/2483-minimum-penalty-for-a-shop) |
