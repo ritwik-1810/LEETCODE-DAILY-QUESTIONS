@@ -34,7 +34,7 @@ public:
             }
             else if(s[i]=='%')
             {
-                k=L-k-1;
+                k=abs(k-(L-1));
             }
             else if(s[i]=='#')
             {
