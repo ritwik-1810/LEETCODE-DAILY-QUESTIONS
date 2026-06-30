@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/ritwik-1810/ritwikkibua/tree/master/1854-maximum-population-year) |
 | [1917-maximum-average-pass-ratio](https://github.com/ritwik-1810/ritwikkibua/tree/master/1917-maximum-average-pass-ratio) |
 | [1943-describe-the-painting](https://github.com/ritwik-1810/ritwikkibua/tree/master/1943-describe-the-painting) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ritwik-1810/ritwikkibua/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2023-design-movie-rental-system](https://github.com/ritwik-1810/ritwikkibua/tree/master/2023-design-movie-rental-system) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/ritwik-1810/ritwikkibua/tree/master/2054-two-best-non-overlapping-events) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/ritwik-1810/ritwikkibua/tree/master/1871-jump-game-vii) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/ritwik-1810/ritwikkibua/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ritwik-1810/ritwikkibua/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ritwik-1810/ritwikkibua/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/ritwik-1810/ritwikkibua/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2211-count-collisions-on-a-road](https://github.com/ritwik-1810/ritwikkibua/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ritwik-1810/ritwikkibua/tree/master/2483-minimum-penalty-for-a-shop) |
