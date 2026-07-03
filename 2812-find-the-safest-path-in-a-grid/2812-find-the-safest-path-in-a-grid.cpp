@@ -1,103 +1,112 @@
 class Solution {
 public:
-    vector<vector<int>> dirs = {{-1,0},{1,0},{0,-1},{0,1}};
+    vector<vector<int>>d{{0,1},{0,-1},{-1,0},{1,0}};
 
-    bool canReach(vector<vector<int>>& dist, int limit) {
+    bool bfs(vector<vector<int>>& dir,int mid)
+    {
+        queue<pair<int,int>>q;
 
-        int n = dist.size();
+        int row=dir.size();
 
-        if (dist[0][0] < limit)
-            return false;
-
-        queue<pair<int,int>> q;
-        vector<vector<bool>> vis(n, vector<bool>(n, false));
+        if(dir[0][0]<mid) return false;
 
         q.push({0,0});
+
+        vector<vector<bool>>vis(row,vector<bool>(row,false));
+
         vis[0][0] = true;
 
-        while (!q.empty()) {
+         while(!q.empty())
+        {
+           auto [i,j] = q.front();
 
-            auto [r, c] = q.front();
-            q.pop();
+           if(i==row-1 && j==row-1) return true;
 
-            if (r == n - 1 && c == n - 1)
-                return true;
+           q.pop();
 
-            for (auto &d : dirs) {
+           for(auto &dd:d)
+           {
+               int ni=dd[0]+i;
 
-                int nr = r + d[0];
-                int nc = c + d[1];
+               int nj=dd[1]+j;
 
-                if (nr >= 0 && nr < n &&
-                    nc >= 0 && nc < n &&
-                    !vis[nr][nc] &&
-                    dist[nr][nc] >= limit) {
-
-                    vis[nr][nc] = true;
-                    q.push({nr, nc});
-                }
-            }
+               if(ni>=0 && ni<row && nj>=0 && nj<row && !vis[ni][nj] && dir[ni][nj]>=mid)
+               {
+                 vis[ni][nj]=true;
+                 q.push({ni,nj});
+               }
+           }
         }
 
         return false;
-    }
 
+    }
     int maximumSafenessFactor(vector<vector<int>>& grid) {
 
-        int n = grid.size();
 
-        queue<pair<int,int>> q;
+        int row = grid.size();
 
-        vector<vector<int>> dist(n, vector<int>(n, INT_MAX));
+        int col=row;
 
-        // Multi-Source BFS
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
+        queue<pair<int,int>>q;
 
-                if (grid[i][j] == 1) {
-                    dist[i][j] = 0;
-                    q.push({i, j});
+        vector<vector<int>>dis(row,vector<int>(row,INT_MAX));
+
+        for(int i=0;i<row;i++)
+        {
+            for(int j=0;j<row;j++)
+            {
+                if(grid[i][j]==1)
+                {
+                    dis[i][j]=0;
+                    q.push({i,j});
                 }
             }
         }
 
-        while (!q.empty()) {
+        while(!q.empty())
+        {
+           auto [i,j] = q.front();
 
-            auto [r, c] = q.front();
-            q.pop();
+           q.pop();
 
-            for (auto &d : dirs) {
+           for(auto dd:d)
+           {
+               int ni=dd[0]+i;
 
-                int nr = r + d[0];
-                int nc = c + d[1];
+               int nj=dd[1]+j;
 
-                if (nr >= 0 && nr < n &&
-                    nc >= 0 && nc < n &&
-                    dist[nr][nc] == INT_MAX) {
-
-                    dist[nr][nc] = dist[r][c] + 1;
-                    q.push({nr, nc});
-                }
-            }
+               if(ni>=0 && ni<row && nj>=0 && nj<row && dis[ni][nj]==INT_MAX)
+               {
+                 dis[ni][nj]=dis[i][j]+1;
+                 q.push({ni,nj});
+               }
+           }
         }
 
-        int low = 0;
-        int high = 2 * n;
-        int ans = 0;
+        int start = 0; 
 
-        while (low <= high) {
+        int end = 2 * row;
 
-            int mid = low + (high - low) / 2;
+        int ans=0;
 
-            if (canReach(dist, mid)) {
-                ans = mid;
-                low = mid + 1;
-            }
-            else {
-                high = mid - 1;
-            }
+        while(start<=end)
+        {
+           int mid =   start + (end-start) /2;
+
+           if(bfs(dis,mid))
+           {
+              ans=mid;
+
+              start=mid+1;
+           }
+           else
+           {
+              end=mid-1;
+           }
         }
 
         return ans;
+
     }
 };
