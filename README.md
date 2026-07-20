@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/ritwik-1810/ritwikkibua/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/ritwik-1810/ritwikkibua/tree/master/0334-increasing-triplet-subsequence) |
 | [0621-task-scheduler](https://github.com/ritwik-1810/ritwikkibua/tree/master/0621-task-scheduler) |
 | [0757-set-intersection-size-at-least-two](https://github.com/ritwik-1810/ritwikkibua/tree/master/0757-set-intersection-size-at-least-two) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritwik-1810/ritwikkibua/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/ritwik-1810/ritwikkibua/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/ritwik-1810/ritwikkibua/tree/master/0013-roman-to-integer) |
+| [0316-remove-duplicate-letters](https://github.com/ritwik-1810/ritwikkibua/tree/master/0316-remove-duplicate-letters) |
 | [0474-ones-and-zeroes](https://github.com/ritwik-1810/ritwikkibua/tree/master/0474-ones-and-zeroes) |
 | [0696-count-binary-substrings](https://github.com/ritwik-1810/ritwikkibua/tree/master/0696-count-binary-substrings) |
 | [0756-pyramid-transition-matrix](https://github.com/ritwik-1810/ritwikkibua/tree/master/0756-pyramid-transition-matrix) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/ritwik-1810/ritwikkibua/tree/master/0316-remove-duplicate-letters) |
 | [0735-asteroid-collision](https://github.com/ritwik-1810/ritwikkibua/tree/master/0735-asteroid-collision) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ritwik-1810/ritwikkibua/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/ritwik-1810/ritwikkibua/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ritwik-1810/ritwikkibua/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/ritwik-1810/ritwikkibua/tree/master/1793-maximum-score-of-a-good-subarray) |
