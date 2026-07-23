@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/ritwik-1810/ritwikkibua/tree/master/1291-sequential-digits) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ritwik-1810/ritwikkibua/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3499-maximize-active-section-with-trade-i) |
 ## String
 |  |
 | ------- |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/ritwik-1810/ritwikkibua/tree/master/2887-sort-vowels-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ritwik-1810/ritwikkibua/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ritwik-1810/ritwikkibua/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/3614-process-string-with-special-operations-ii) |
 | [3797-design-spreadsheet](https://github.com/ritwik-1810/ritwikkibua/tree/master/3797-design-spreadsheet) |
