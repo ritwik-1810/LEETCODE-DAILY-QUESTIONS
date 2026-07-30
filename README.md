@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/ritwik-1810/ritwikkibua/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3433-count-mentions-per-user](https://github.com/ritwik-1810/ritwikkibua/tree/master/3433-count-mentions-per-user) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3531-count-covered-buildings](https://github.com/ritwik-1810/ritwikkibua/tree/master/3531-count-covered-buildings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ritwik-1810/ritwikkibua/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ritwik-1810/ritwikkibua/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ritwik-1810/ritwikkibua/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/3614-process-string-with-special-operations-ii) |
 | [3797-design-spreadsheet](https://github.com/ritwik-1810/ritwikkibua/tree/master/3797-design-spreadsheet) |
@@ -556,4 +558,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/ritwik-1810/ritwikkibua/tree/master/3620-network-recovery-pathways) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
