@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/ritwik-1810/ritwikkibua/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0474-ones-and-zeroes](https://github.com/ritwik-1810/ritwikkibua/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/ritwik-1810/ritwikkibua/tree/master/0486-predict-the-winner) |
 | [0621-task-scheduler](https://github.com/ritwik-1810/ritwikkibua/tree/master/0621-task-scheduler) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ritwik-1810/ritwikkibua/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0729-my-calendar-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/0729-my-calendar-i) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ritwik-1810/ritwikkibua/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/ritwik-1810/ritwikkibua/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/ritwik-1810/ritwikkibua/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/ritwik-1810/ritwikkibua/tree/master/0486-predict-the-winner) |
 | [0741-cherry-pickup](https://github.com/ritwik-1810/ritwikkibua/tree/master/0741-cherry-pickup) |
 | [0787-sliding-puzzle](https://github.com/ritwik-1810/ritwikkibua/tree/master/0787-sliding-puzzle) |
 | [0788-rotated-digits](https://github.com/ritwik-1810/ritwikkibua/tree/master/0788-rotated-digits) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/ritwik-1810/ritwikkibua/tree/master/0089-gray-code) |
 | [0396-rotate-function](https://github.com/ritwik-1810/ritwikkibua/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0486-predict-the-winner](https://github.com/ritwik-1810/ritwikkibua/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/ritwik-1810/ritwikkibua/tree/master/0788-rotated-digits) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/ritwik-1810/ritwikkibua/tree/master/1018-largest-perimeter-triangle) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0203-remove-linked-list-elements) |
+| [0486-predict-the-winner](https://github.com/ritwik-1810/ritwikkibua/tree/master/0486-predict-the-winner) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ritwik-1810/ritwikkibua/tree/master/2573-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
@@ -565,4 +569,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ritwik-1810/ritwikkibua/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
