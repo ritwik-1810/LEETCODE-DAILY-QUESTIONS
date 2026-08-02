@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/ritwik-1810/ritwikkibua/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/ritwik-1810/ritwikkibua/tree/master/0794-swim-in-rising-water) |
 | [0837-most-common-word](https://github.com/ritwik-1810/ritwikkibua/tree/master/0837-most-common-word) |
+| [0877-stone-game](https://github.com/ritwik-1810/ritwikkibua/tree/master/0877-stone-game) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ritwik-1810/ritwikkibua/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/ritwik-1810/ritwikkibua/tree/master/0741-cherry-pickup) |
 | [0787-sliding-puzzle](https://github.com/ritwik-1810/ritwikkibua/tree/master/0787-sliding-puzzle) |
 | [0788-rotated-digits](https://github.com/ritwik-1810/ritwikkibua/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/ritwik-1810/ritwikkibua/tree/master/0877-stone-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/ritwik-1810/ritwikkibua/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ritwik-1810/ritwikkibua/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/ritwik-1810/ritwikkibua/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/ritwik-1810/ritwikkibua/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/ritwik-1810/ritwikkibua/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/ritwik-1810/ritwikkibua/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ritwik-1810/ritwikkibua/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -573,4 +576,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ritwik-1810/ritwikkibua/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/ritwik-1810/ritwikkibua/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
