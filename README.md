@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ritwik-1810/ritwikkibua/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ritwik-1810/ritwikkibua/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/ritwik-1810/ritwikkibua/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
+| [2786-visit-array-positions-to-maximize-score](https://github.com/ritwik-1810/ritwikkibua/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ritwik-1810/ritwikkibua/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ritwik-1810/ritwikkibua/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/ritwik-1810/ritwikkibua/tree/master/1871-jump-game-vii) |
 | [2054-two-best-non-overlapping-events](https://github.com/ritwik-1810/ritwikkibua/tree/master/2054-two-best-non-overlapping-events) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2786-visit-array-positions-to-maximize-score](https://github.com/ritwik-1810/ritwikkibua/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ritwik-1810/ritwikkibua/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3620-network-recovery-pathways](https://github.com/ritwik-1810/ritwikkibua/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
