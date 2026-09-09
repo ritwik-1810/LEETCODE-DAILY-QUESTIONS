@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/ritwik-1810/ritwikkibua/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/ritwik-1810/ritwikkibua/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1652-defuse-the-bomb](https://github.com/ritwik-1810/ritwikkibua/tree/master/1652-defuse-the-bomb) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ritwik-1810/ritwikkibua/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/ritwik-1810/ritwikkibua/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ritwik-1810/ritwikkibua/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritwik-1810/ritwikkibua/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/ritwik-1810/ritwikkibua/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1652-defuse-the-bomb](https://github.com/ritwik-1810/ritwikkibua/tree/master/1652-defuse-the-bomb) |
 | [1871-jump-game-vii](https://github.com/ritwik-1810/ritwikkibua/tree/master/1871-jump-game-vii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ritwik-1810/ritwikkibua/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
