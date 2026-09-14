@@ -602,4 +602,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0752-open-the-lock](https://github.com/ritwik-1810/ritwikkibua/tree/master/0752-open-the-lock) |
+## Database
+|  |
+| ------- |
+| [0511-game-play-analysis-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
