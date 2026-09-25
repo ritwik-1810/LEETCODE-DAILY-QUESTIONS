@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ritwik-1810/ritwikkibua/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/ritwik-1810/ritwikkibua/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ritwik-1810/ritwikkibua/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/ritwik-1810/ritwikkibua/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0347-top-k-frequent-elements) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ritwik-1810/ritwikkibua/tree/master/0037-sudoku-solver) |
 | [0146-lru-cache](https://github.com/ritwik-1810/ritwikkibua/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ritwik-1810/ritwikkibua/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/ritwik-1810/ritwikkibua/tree/master/0621-task-scheduler) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ritwik-1810/ritwikkibua/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ritwik-1810/ritwikkibua/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/ritwik-1810/ritwikkibua/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ritwik-1810/ritwikkibua/tree/master/0621-task-scheduler) |
 | [0757-set-intersection-size-at-least-two](https://github.com/ritwik-1810/ritwikkibua/tree/master/0757-set-intersection-size-at-least-two) |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ritwik-1810/ritwikkibua/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ritwik-1810/ritwikkibua/tree/master/0621-task-scheduler) |
 | [0837-most-common-word](https://github.com/ritwik-1810/ritwikkibua/tree/master/0837-most-common-word) |
@@ -618,4 +622,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ritwik-1810/ritwikkibua/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
