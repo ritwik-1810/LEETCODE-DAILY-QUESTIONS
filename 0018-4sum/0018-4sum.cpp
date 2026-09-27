@@ -2,55 +2,51 @@ class Solution {
 public:
     vector<vector<int>> fourSum(vector<int>& nums, int target) {
 
-         int size=nums.size();
+      int size = nums.size();
+        
+        sort(nums.begin(),nums.end());
 
-        int j=1;
+        set<tuple<int,int,int,int>>st;
 
-        sort(begin(nums),end(nums));
-
-        set<vector<int>>s;
-
-        vector<vector<int>>ans;
-
-        for(int i=0;i<size-3;i++)
+        for(int i=0;i<size;i++)
         {
-            int a=nums[i];
-
-            for(int j=i+1;j<size-2;j++)
+            for(int j=i+1;j<size;j++)
             {
-                int b=nums[j];
+                int s=size-1;
 
-                for(int k=j+1;k<size;k++)
+                int sum1=nums[i]+nums[j];
+
+                int k=j+1;
+
+                while(k<s)
                 {
-                   int c=nums[k];
-
-                long long val=(long long)target-((long long)a+b+c);
-
-                int l = lower_bound(nums.begin() + k + 1,nums.end(),val) - nums.begin();
-
-                if(l==size) continue;
-                
-                int d=nums[l];
-                  
-                  if(((long long)a+b+c+d)==target)
-                  {
-
-                    vector<int> triplet = {a, b, c,d};
-                    sort(triplet.begin(), triplet.end());
-                    s.insert(triplet);
-
-                  }
-
+                    if((long long)sum1+nums[k]+nums[s]==target)
+                    {
+                       st.insert({nums[i],nums[j],nums[k],nums[s]});
+                       k++;
+                    }
+                    else if((long long)sum1+nums[k]+nums[s]>target)
+                    {
+                        s--;
+                    }
+                    else
+                    {
+                        k++;
+                    }
                 }
             }
         }
 
-        for(auto v:s)
-        {
-            ans.push_back(v);
-        }
+        
+        vector<vector<int>>ans;
 
+        for(auto [a,b,c,d]:st)
+        {
+            ans.push_back({a,b,c,d});
+        }
+        
         return ans;
+        
         
         
     }
