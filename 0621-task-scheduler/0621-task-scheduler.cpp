@@ -2,7 +2,7 @@ class Solution {
 public:
     int leastInterval(vector<char>& tasks, int n) {
 
-         int size=tasks.size();
+        int size=tasks.size();
 
         unordered_map<char,int>eleFreq;
 
@@ -22,20 +22,23 @@ public:
 
         int space=block*(n);
 
+        int totalInterval=pq.top().first+space;
+
         pq.pop();
 
         while(!pq.empty())
         {
-             auto [freq,ele]=pq.top();
+            auto [freq,ele]=pq.top();
 
             pq.pop();
 
-           space-=min(block,freq);
+            int fit=min({freq,block,space});   // copies that fit into idle slots
+
+            totalInterval+=freq-fit;           // leftover goes at the end
+
+            space-=fit;
         }
 
-        space=max(0,space);
-
-        return size+space;
-        
+        return totalInterval;
     }
 };
