@@ -16,51 +16,52 @@ public:
 
         for(int i=0;i<lists.size();i++)
         {
-            ListNode* head=lists[i];
+            ListNode* first=lists[i];
             
-            if(head!=nullptr)
-            pq.push({head->val,head});
+            if(first!=NULL)
+            {
+            int val=first->val;
+
+            pq.push({val,first});
+
+            cout<<first->val<<endl;
+            }
+
         }
 
-        if(pq.empty()) return nullptr;
+        ListNode* head1=NULL;
 
-        ListNode* fr=pq.top().second;
-        
-        ListNode* temp=fr;
-
-        pq.pop();
+        ListNode* curr=NULL;
 
         while(!pq.empty())
         {
-            if(temp->next==nullptr)
+            ListNode* node=pq.top().second;
+
+            pq.pop();
+
+            ListNode* nxtNode=node->next;
+            
+            if(nxtNode!=NULL)
             {
-               temp->next=pq.top().second;
+             int val = nxtNode->val;
+             pq.push({val,nxtNode});
+            }
 
-               temp = temp->next;
 
-               pq.pop();
+            if(head1==NULL)
+            {
+                head1=node;
+                curr=node;
             }
             else
             {
-               ListNode* er=temp->next;
-               
-               if(er->val>pq.top().first)
-               {
-                  temp->next=pq.top().second;
+           
+            curr->next=node;
 
-                  pq.pop();
-
-                  pq.push({er->val,er});
-               }
-               else
-               {
-                  temp=temp->next;
-               }
-
+            curr=node;
             }
         }
 
-        return fr;
-
+        return head1; 
     }
 };
