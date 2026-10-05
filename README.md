@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ritwik-1810/ritwikkibua/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/ritwik-1810/ritwikkibua/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/ritwik-1810/ritwikkibua/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/ritwik-1810/ritwikkibua/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/ritwik-1810/ritwikkibua/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/0088-merge-sorted-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ritwik-1810/ritwikkibua/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ritwik-1810/ritwikkibua/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/ritwik-1810/ritwikkibua/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/ritwik-1810/ritwikkibua/tree/master/0041-first-missing-positive) |
 | [0146-lru-cache](https://github.com/ritwik-1810/ritwikkibua/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ritwik-1810/ritwikkibua/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0229-majority-element-ii) |
