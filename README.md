@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/ritwik-1810/ritwikkibua/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/ritwik-1810/ritwikkibua/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ritwik-1810/ritwikkibua/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/ritwik-1810/ritwikkibua/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0347-top-k-frequent-elements) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/ritwik-1810/ritwikkibua/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ritwik-1810/ritwikkibua/tree/master/0300-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/0729-my-calendar-i) |
 | [0794-swim-in-rising-water](https://github.com/ritwik-1810/ritwikkibua/tree/master/0794-swim-in-rising-water) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ritwik-1810/ritwikkibua/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/ritwik-1810/ritwikkibua/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/ritwik-1810/ritwikkibua/tree/master/0287-find-the-duplicate-number) |
 | [0756-pyramid-transition-matrix](https://github.com/ritwik-1810/ritwikkibua/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ritwik-1810/ritwikkibua/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ritwik-1810/ritwikkibua/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ritwik-1810/ritwikkibua/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ritwik-1810/ritwikkibua/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/ritwik-1810/ritwikkibua/tree/master/0287-find-the-duplicate-number) |
 | [0481-magical-string](https://github.com/ritwik-1810/ritwikkibua/tree/master/0481-magical-string) |
 | [0696-count-binary-substrings](https://github.com/ritwik-1810/ritwikkibua/tree/master/0696-count-binary-substrings) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/ritwik-1810/ritwikkibua/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -665,4 +669,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ritwik-1810/ritwikkibua/tree/master/0023-merge-k-sorted-lists) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ritwik-1810/ritwikkibua/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ritwik-1810/ritwikkibua/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
