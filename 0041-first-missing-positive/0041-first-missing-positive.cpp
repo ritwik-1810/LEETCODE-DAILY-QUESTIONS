@@ -4,27 +4,46 @@ public:
 
         int size=nums.size();
 
-        unordered_map<int,int>vec;
+        bool containOne=false;
 
         for(int i=0;i<size;i++)
-        {   
-            if(nums[i]>0)
-            vec[nums[i]]++;
+        {
+            if(nums[i]==1)
+             containOne=true;
+
+             if(nums[i]<=0)
+             {
+                nums[i]=1;
+             }
         }
 
-        int smallest=1;
+        if(!containOne) return 1;
+        
+        int i=0;
 
-        while(true)
+        for(;i<size;i++)
         {
-            if(!vec.count(smallest))
+            int num=abs(nums[i]);
+
+            int idx=num-1;
+
+            if(idx>=size) continue;
+
+            if(nums[idx]>0)
             {
-                return smallest;
+                nums[idx]*=-1;
             }
 
-            smallest+=1;
+            
         }
 
-        return -1;
+        for(i=0;i<size;i++)
+        {
+            if(nums[i]>0)
+              return i+1;
+        }
+
+        return size+1;
         
     }
 };
