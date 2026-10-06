@@ -4,16 +4,29 @@ public:
 
         int size=nums.size();
 
-        for(int i=0;i<size;i++)
+        int slow=0;
+
+        int fast=0;
+
+        while(true)
         {
-            int pivot=abs(nums[i]);
+            slow=nums[slow];
 
-            if(nums[pivot]<0) return pivot;
+            fast=nums[nums[fast]];
 
-            nums[pivot]*=-1;
+            if(slow==fast) break;
         }
 
-        return -1;
+        int p=0;
+
+        while(nums[p]!=nums[slow])
+        {
+            p=nums[p];
+
+            slow=nums[slow];
+        }
+
+        return nums[slow];
         
     }
 };
