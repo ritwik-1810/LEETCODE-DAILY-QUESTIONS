@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ritwik-1810/ritwikkibua/tree/master/0621-task-scheduler) |
+| [0706-design-hashmap](https://github.com/ritwik-1810/ritwikkibua/tree/master/0706-design-hashmap) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ritwik-1810/ritwikkibua/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0729-my-calendar-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/ritwik-1810/ritwikkibua/tree/master/0735-asteroid-collision) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ritwik-1810/ritwikkibua/tree/master/0621-task-scheduler) |
+| [0706-design-hashmap](https://github.com/ritwik-1810/ritwikkibua/tree/master/0706-design-hashmap) |
 | [0752-open-the-lock](https://github.com/ritwik-1810/ritwikkibua/tree/master/0752-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/ritwik-1810/ritwikkibua/tree/master/0756-pyramid-transition-matrix) |
 | [0837-most-common-word](https://github.com/ritwik-1810/ritwikkibua/tree/master/0837-most-common-word) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/ritwik-1810/ritwikkibua/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/ritwik-1810/ritwikkibua/tree/master/0355-design-twitter) |
+| [0706-design-hashmap](https://github.com/ritwik-1810/ritwikkibua/tree/master/0706-design-hashmap) |
 | [0729-my-calendar-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/0729-my-calendar-i) |
 | [2023-design-movie-rental-system](https://github.com/ritwik-1810/ritwikkibua/tree/master/2023-design-movie-rental-system) |
 | [3797-design-spreadsheet](https://github.com/ritwik-1810/ritwikkibua/tree/master/3797-design-spreadsheet) |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/ritwik-1810/ritwikkibua/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0203-remove-linked-list-elements) |
 | [0355-design-twitter](https://github.com/ritwik-1810/ritwikkibua/tree/master/0355-design-twitter) |
+| [0706-design-hashmap](https://github.com/ritwik-1810/ritwikkibua/tree/master/0706-design-hashmap) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ritwik-1810/ritwikkibua/tree/master/2573-remove-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -677,4 +681,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ritwik-1810/ritwikkibua/tree/master/0287-find-the-duplicate-number) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/ritwik-1810/ritwikkibua/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
