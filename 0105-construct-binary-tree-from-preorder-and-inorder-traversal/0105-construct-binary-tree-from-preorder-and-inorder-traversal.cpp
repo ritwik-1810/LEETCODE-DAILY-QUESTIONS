@@ -27,7 +27,6 @@ public:
             j++;
         }
 
-        if(j>e) return nullptr;
 
         TreeNode* root=new TreeNode(inorder[j]);
 
