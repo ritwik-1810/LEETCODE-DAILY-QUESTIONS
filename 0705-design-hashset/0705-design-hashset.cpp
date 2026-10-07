@@ -27,8 +27,14 @@ public:
 
         int hashKey=key%10000;
 
-        
-         buckets[hashKey].remove(key);
+        for(auto it=buckets[hashKey].begin();it!=buckets[hashKey].end();++it)
+        {
+            if(*it==key)
+            {
+                buckets[hashKey].erase(it);
+                break;
+            }
+        }
 
         
     }
