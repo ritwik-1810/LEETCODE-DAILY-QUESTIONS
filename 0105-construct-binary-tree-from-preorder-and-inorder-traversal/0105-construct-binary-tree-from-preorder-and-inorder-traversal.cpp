@@ -22,7 +22,7 @@ public:
 
         int j=l;
 
-        while(j<=e && inorder[j]!=rootnode)
+        while(inorder[j]!=rootnode)
         {
             j++;
         }
