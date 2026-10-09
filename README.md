@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ritwik-1810/ritwikkibua/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2483-task-scheduler-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/2483-task-scheduler-ii) |
 | [2615-sum-of-distances](https://github.com/ritwik-1810/ritwikkibua/tree/master/2615-sum-of-distances) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/ritwik-1810/ritwikkibua/tree/master/1917-maximum-average-pass-ratio) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ritwik-1810/ritwikkibua/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ritwik-1810/ritwikkibua/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ritwik-1810/ritwikkibua/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ritwik-1810/ritwikkibua/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1885-count-number-of-homogenous-substrings](https://github.com/ritwik-1810/ritwikkibua/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1922-count-good-numbers](https://github.com/ritwik-1810/ritwikkibua/tree/master/1922-count-good-numbers) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2481-strictly-palindromic-number](https://github.com/ritwik-1810/ritwikkibua/tree/master/2481-strictly-palindromic-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ritwik-1810/ritwikkibua/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ritwik-1810/ritwikkibua/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
