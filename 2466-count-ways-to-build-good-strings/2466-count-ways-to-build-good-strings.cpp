@@ -23,12 +23,26 @@ public:
          if(addOne) return t[cons]=(1 + left + right)%MOD;
 
          return t[cons]=(left+right)%MOD;
+
     }
     int countGoodStrings(int low, int high, int zero, int one) {
 
-        vector<int>t(high+1,-1);
+        vector<int>t(high+1,0);
 
-        return solve(low,high,zero,one,0,t);
+        for(int cons=high;cons>=0;cons--)
+        {
+            int left = cons + one <=high ? t[cons+one] : 0 ;
+
+            int right = cons + zero <=high ? t[cons+zero] : 0;
+
+            if(cons>=low && cons<=high)
+             t[cons]=(1+left+right)%MOD;
+            else
+             t[cons]=(left+right)%MOD;
+            
+        }
+
+        return t[0];
 
     }
 };
