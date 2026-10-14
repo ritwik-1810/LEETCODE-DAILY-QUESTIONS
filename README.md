@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/ritwik-1810/ritwikkibua/tree/master/1871-jump-game-vii) |
 | [2054-two-best-non-overlapping-events](https://github.com/ritwik-1810/ritwikkibua/tree/master/2054-two-best-non-overlapping-events) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2466-count-ways-to-build-good-strings](https://github.com/ritwik-1810/ritwikkibua/tree/master/2466-count-ways-to-build-good-strings) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/ritwik-1810/ritwikkibua/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ritwik-1810/ritwikkibua/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3620-network-recovery-pathways](https://github.com/ritwik-1810/ritwikkibua/tree/master/3620-network-recovery-pathways) |
