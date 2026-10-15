@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ritwik-1810/ritwikkibua/tree/master/0146-lru-cache) |
+| [0173-binary-search-tree-iterator](https://github.com/ritwik-1810/ritwikkibua/tree/master/0173-binary-search-tree-iterator) |
 | [0355-design-twitter](https://github.com/ritwik-1810/ritwikkibua/tree/master/0355-design-twitter) |
 | [0705-design-hashset](https://github.com/ritwik-1810/ritwikkibua/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ritwik-1810/ritwikkibua/tree/master/0706-design-hashmap) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/ritwik-1810/ritwikkibua/tree/master/0173-binary-search-tree-iterator) |
 | [0316-remove-duplicate-letters](https://github.com/ritwik-1810/ritwikkibua/tree/master/0316-remove-duplicate-letters) |
 | [0735-asteroid-collision](https://github.com/ritwik-1810/ritwikkibua/tree/master/0735-asteroid-collision) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ritwik-1810/ritwikkibua/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ritwik-1810/ritwikkibua/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ritwik-1810/ritwikkibua/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ritwik-1810/ritwikkibua/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0173-binary-search-tree-iterator](https://github.com/ritwik-1810/ritwikkibua/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ritwik-1810/ritwikkibua/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ritwik-1810/ritwikkibua/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ritwik-1810/ritwikkibua/tree/master/1382-balance-a-binary-search-tree) |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ritwik-1810/ritwikkibua/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ritwik-1810/ritwikkibua/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ritwik-1810/ritwikkibua/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0173-binary-search-tree-iterator](https://github.com/ritwik-1810/ritwikkibua/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ritwik-1810/ritwikkibua/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ritwik-1810/ritwikkibua/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ritwik-1810/ritwikkibua/tree/master/1382-balance-a-binary-search-tree) |
@@ -630,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ritwik-1810/ritwikkibua/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/ritwik-1810/ritwikkibua/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ritwik-1810/ritwikkibua/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/ritwik-1810/ritwikkibua/tree/master/1382-balance-a-binary-search-tree) |
 ## Union-Find
@@ -705,4 +710,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/ritwik-1810/ritwikkibua/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ritwik-1810/ritwikkibua/tree/master/0706-design-hashmap) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/ritwik-1810/ritwikkibua/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
