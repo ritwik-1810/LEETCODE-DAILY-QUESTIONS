@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ritwik-1810/ritwikkibua/tree/master/0094-binary-tree-inorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ritwik-1810/ritwikkibua/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ritwik-1810/ritwikkibua/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ritwik-1810/ritwikkibua/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ritwik-1810/ritwikkibua/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0684-redundant-connection](https://github.com/ritwik-1810/ritwikkibua/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/ritwik-1810/ritwikkibua/tree/master/0794-swim-in-rising-water) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ritwik-1810/ritwikkibua/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ritwik-1810/ritwikkibua/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ritwik-1810/ritwikkibua/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/ritwik-1810/ritwikkibua/tree/master/0173-binary-search-tree-iterator) |
 | [0316-remove-duplicate-letters](https://github.com/ritwik-1810/ritwikkibua/tree/master/0316-remove-duplicate-letters) |
 | [0735-asteroid-collision](https://github.com/ritwik-1810/ritwikkibua/tree/master/0735-asteroid-collision) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ritwik-1810/ritwikkibua/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ritwik-1810/ritwikkibua/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ritwik-1810/ritwikkibua/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ritwik-1810/ritwikkibua/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/ritwik-1810/ritwikkibua/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ritwik-1810/ritwikkibua/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ritwik-1810/ritwikkibua/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ritwik-1810/ritwikkibua/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ritwik-1810/ritwikkibua/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ritwik-1810/ritwikkibua/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ritwik-1810/ritwikkibua/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/ritwik-1810/ritwikkibua/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ritwik-1810/ritwikkibua/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ritwik-1810/ritwikkibua/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
