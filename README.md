@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/ritwik-1810/ritwikkibua/tree/master/0706-design-hashmap) |
 | [0752-open-the-lock](https://github.com/ritwik-1810/ritwikkibua/tree/master/0752-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/ritwik-1810/ritwikkibua/tree/master/0756-pyramid-transition-matrix) |
+| [0763-partition-labels](https://github.com/ritwik-1810/ritwikkibua/tree/master/0763-partition-labels) |
 | [0837-most-common-word](https://github.com/ritwik-1810/ritwikkibua/tree/master/0837-most-common-word) |
 | [0846-hand-of-straights](https://github.com/ritwik-1810/ritwikkibua/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ritwik-1810/ritwikkibua/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ritwik-1810/ritwikkibua/tree/master/0621-task-scheduler) |
 | [0757-set-intersection-size-at-least-two](https://github.com/ritwik-1810/ritwikkibua/tree/master/0757-set-intersection-size-at-least-two) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ritwik-1810/ritwikkibua/tree/master/0759-set-intersection-size-at-least-two) |
+| [0763-partition-labels](https://github.com/ritwik-1810/ritwikkibua/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/ritwik-1810/ritwikkibua/tree/master/0846-hand-of-straights) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/ritwik-1810/ritwikkibua/tree/master/1018-largest-perimeter-triangle) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/ritwik-1810/ritwikkibua/tree/master/0696-count-binary-substrings) |
 | [0752-open-the-lock](https://github.com/ritwik-1810/ritwikkibua/tree/master/0752-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/ritwik-1810/ritwikkibua/tree/master/0756-pyramid-transition-matrix) |
+| [0763-partition-labels](https://github.com/ritwik-1810/ritwikkibua/tree/master/0763-partition-labels) |
 | [0837-most-common-word](https://github.com/ritwik-1810/ritwikkibua/tree/master/0837-most-common-word) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ritwik-1810/ritwikkibua/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ritwik-1810/ritwikkibua/tree/master/0287-find-the-duplicate-number) |
 | [0481-magical-string](https://github.com/ritwik-1810/ritwikkibua/tree/master/0481-magical-string) |
 | [0696-count-binary-substrings](https://github.com/ritwik-1810/ritwikkibua/tree/master/0696-count-binary-substrings) |
+| [0763-partition-labels](https://github.com/ritwik-1810/ritwikkibua/tree/master/0763-partition-labels) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/ritwik-1810/ritwikkibua/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2481-strictly-palindromic-number](https://github.com/ritwik-1810/ritwikkibua/tree/master/2481-strictly-palindromic-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ritwik-1810/ritwikkibua/tree/master/3867-sum-of-gcd-of-formed-pairs) |
