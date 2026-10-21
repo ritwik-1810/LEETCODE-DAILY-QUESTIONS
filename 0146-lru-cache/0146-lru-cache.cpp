@@ -1,58 +1,107 @@
+class Node
+{   
+    public:
+
+    int key;
+    int val;
+    Node* prev;
+    Node* next;
+
+    Node(int key,int val)
+    {
+        this->key=key;
+        this->val=val;
+        prev=nullptr;
+        next=nullptr;
+    }
+};
 class LRUCache {
 public:
-    unordered_map<int,int>mp;
-    unordered_map<int,int>pp;
-    int size,prev;
+    int cap;
+    unordered_map<int,Node*>mp;
+    Node* head;
+    Node* tail;
     LRUCache(int capacity) {
-
-      size=capacity;
-      prev=0;
-        
+        cap=capacity;
+        head=new Node(0,0);
+        tail=new Node(0,0);
+        head->next=tail;
+        tail->prev=head;
     }
-    
+
+    void remove(Node* nw)
+    {
+         nw->prev->next=nw->next;
+
+         nw->next->prev=nw->prev;
+
+         nw->next=nullptr;
+
+         nw->prev=nullptr;
+    }
+
+    void addNode(Node* nw)
+    {
+         nw->next=head->next;
+
+         head->next->prev=nw;
+
+         head->next = nw;
+
+         nw->prev=head;
+
+    }
     int get(int key) {
 
-        if(mp.find(key)!=mp.end())
-        {
-          prev++;
+        if(!mp.count(key)) return -1;
 
-          pp[key]=prev;
+        Node* nw=mp[key];
 
-          return mp[key];
-        }
+        remove(nw);
 
-        return -1;
+        addNode(nw);
+
+        return nw->val;
+        
     }
     
     void put(int key, int value) {
 
-       
-        mp[key]=value;
-
-        prev++;
-
-        pp[key]=prev;
-
-         if(mp.size()>size)
+        if(mp.count(key))
         {
-            int val=INT_MAX;
+           Node *nw=mp[key];
 
-            int kk;
+           nw->val=value;
 
-            for(auto v:pp)
-            {
-                if(val>v.second)
-                {
-                    val=v.second;
+           remove(nw);
 
-                    kk=v.first;
-                }
-            }
-
-            mp.erase(kk);
-
-            pp.erase(kk);
+           addNode(nw);
         }
+        else
+        {
+             if((int)mp.size()>=cap)
+             {
+                mp.erase(tail->prev->key);
+
+                remove(tail->prev);
+
+                Node* nw=new Node(key,value);
+
+                addNode(nw);
+
+                mp[key]=nw;
+             }
+             else
+             {
+                Node* nw=new Node(key,value);
+
+                addNode(nw);
+
+                mp[key]=nw;
+
+             }
+        }
+        
     }
 };
 
