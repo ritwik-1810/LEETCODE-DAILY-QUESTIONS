@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ritwik-1810/ritwikkibua/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ritwik-1810/ritwikkibua/tree/master/0070-climbing-stairs) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ritwik-1810/ritwikkibua/tree/master/0096-unique-binary-search-trees) |
 | [0152-maximum-product-subarray](https://github.com/ritwik-1810/ritwikkibua/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/ritwik-1810/ritwikkibua/tree/master/0300-longest-increasing-subsequence) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ritwik-1810/ritwikkibua/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/ritwik-1810/ritwikkibua/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0095-unique-binary-search-trees-ii) |
 | [0756-pyramid-transition-matrix](https://github.com/ritwik-1810/ritwikkibua/tree/master/0756-pyramid-transition-matrix) |
 | [0787-sliding-puzzle](https://github.com/ritwik-1810/ritwikkibua/tree/master/0787-sliding-puzzle) |
 ## Breadth-First Search
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ritwik-1810/ritwikkibua/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ritwik-1810/ritwikkibua/tree/master/0096-unique-binary-search-trees) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ritwik-1810/ritwikkibua/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ritwik-1810/ritwikkibua/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ritwik-1810/ritwikkibua/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ritwik-1810/ritwikkibua/tree/master/0096-unique-binary-search-trees) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ritwik-1810/ritwikkibua/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ritwik-1810/ritwikkibua/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -671,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ritwik-1810/ritwikkibua/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ritwik-1810/ritwikkibua/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ritwik-1810/ritwikkibua/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
