@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/ritwik-1810/ritwikkibua/tree/master/0837-most-common-word) |
 | [0846-hand-of-straights](https://github.com/ritwik-1810/ritwikkibua/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ritwik-1810/ritwikkibua/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0895-maximum-frequency-stack](https://github.com/ritwik-1810/ritwikkibua/tree/master/0895-maximum-frequency-stack) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/1331-rank-transform-of-an-array) |
@@ -417,12 +418,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/ritwik-1810/ritwikkibua/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ritwik-1810/ritwikkibua/tree/master/0706-design-hashmap) |
 | [0729-my-calendar-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/0729-my-calendar-i) |
+| [0895-maximum-frequency-stack](https://github.com/ritwik-1810/ritwikkibua/tree/master/0895-maximum-frequency-stack) |
 | [2023-design-movie-rental-system](https://github.com/ritwik-1810/ritwikkibua/tree/master/2023-design-movie-rental-system) |
 | [3797-design-spreadsheet](https://github.com/ritwik-1810/ritwikkibua/tree/master/3797-design-spreadsheet) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/0729-my-calendar-i) |
+| [0895-maximum-frequency-stack](https://github.com/ritwik-1810/ritwikkibua/tree/master/0895-maximum-frequency-stack) |
 | [2023-design-movie-rental-system](https://github.com/ritwik-1810/ritwikkibua/tree/master/2023-design-movie-rental-system) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3863-power-grid-maintenance](https://github.com/ritwik-1810/ritwikkibua/tree/master/3863-power-grid-maintenance) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/ritwik-1810/ritwikkibua/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/ritwik-1810/ritwikkibua/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/ritwik-1810/ritwikkibua/tree/master/0735-asteroid-collision) |
+| [0895-maximum-frequency-stack](https://github.com/ritwik-1810/ritwikkibua/tree/master/0895-maximum-frequency-stack) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ritwik-1810/ritwikkibua/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/ritwik-1810/ritwikkibua/tree/master/1793-maximum-score-of-a-good-subarray) |
