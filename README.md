@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/ritwik-1810/ritwikkibua/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/ritwik-1810/ritwikkibua/tree/master/0424-longest-repeating-character-replacement) |
+| [0460-lfu-cache](https://github.com/ritwik-1810/ritwikkibua/tree/master/0460-lfu-cache) |
 | [0525-contiguous-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ritwik-1810/ritwikkibua/tree/master/0621-task-scheduler) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/ritwik-1810/ritwikkibua/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/ritwik-1810/ritwikkibua/tree/master/0173-binary-search-tree-iterator) |
 | [0355-design-twitter](https://github.com/ritwik-1810/ritwikkibua/tree/master/0355-design-twitter) |
+| [0460-lfu-cache](https://github.com/ritwik-1810/ritwikkibua/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/ritwik-1810/ritwikkibua/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ritwik-1810/ritwikkibua/tree/master/0706-design-hashmap) |
 | [0729-my-calendar-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/0729-my-calendar-i) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/ritwik-1810/ritwikkibua/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0203-remove-linked-list-elements) |
 | [0355-design-twitter](https://github.com/ritwik-1810/ritwikkibua/tree/master/0355-design-twitter) |
+| [0460-lfu-cache](https://github.com/ritwik-1810/ritwikkibua/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/ritwik-1810/ritwikkibua/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ritwik-1810/ritwikkibua/tree/master/0706-design-hashmap) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ritwik-1810/ritwikkibua/tree/master/2573-remove-nodes-from-linked-list) |
@@ -686,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ritwik-1810/ritwikkibua/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/ritwik-1810/ritwikkibua/tree/master/0460-lfu-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Segment Tree
 |  |
