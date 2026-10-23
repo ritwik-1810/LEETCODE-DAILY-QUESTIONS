@@ -30,7 +30,6 @@ public:
 
         return solve(num/1000000) + " Million" + (num%1000000 ? " "+solve(num%1000000):"");
 
-        
         return solve(num/1000000000) + " Billion" + (num%1000000000 ? " "+solve(num%1000000000):"");
         
     }
