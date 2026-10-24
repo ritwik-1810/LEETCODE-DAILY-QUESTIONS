@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/ritwik-1810/ritwikkibua/tree/master/3797-design-spreadsheet) |
 | [3863-power-grid-maintenance](https://github.com/ritwik-1810/ritwikkibua/tree/master/3863-power-grid-maintenance) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ritwik-1810/ritwikkibua/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/ritwik-1810/ritwikkibua/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/ritwik-1810/ritwikkibua/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ritwik-1810/ritwikkibua/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ritwik-1810/ritwikkibua/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/ritwik-1810/ritwikkibua/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/3614-process-string-with-special-operations-ii) |
 | [3797-design-spreadsheet](https://github.com/ritwik-1810/ritwikkibua/tree/master/3797-design-spreadsheet) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/ritwik-1810/ritwikkibua/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Design
 |  |
 | ------- |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ritwik-1810/ritwikkibua/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2351-first-letter-to-appear-twice](https://github.com/ritwik-1810/ritwikkibua/tree/master/2351-first-letter-to-appear-twice) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ritwik-1810/ritwikkibua/tree/master/3676-smallest-number-with-all-set-bits) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/ritwik-1810/ritwikkibua/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Two Pointers
 |  |
 | ------- |
