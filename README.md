@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/ritwik-1810/ritwikkibua/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/ritwik-1810/ritwikkibua/tree/master/0096-unique-binary-search-trees) |
 | [0273-integer-to-english-words](https://github.com/ritwik-1810/ritwikkibua/tree/master/0273-integer-to-english-words) |
+| [0342-power-of-four](https://github.com/ritwik-1810/ritwikkibua/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/ritwik-1810/ritwikkibua/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/ritwik-1810/ritwikkibua/tree/master/0486-predict-the-winner) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/ritwik-1810/ritwikkibua/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ritwik-1810/ritwikkibua/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/ritwik-1810/ritwikkibua/tree/master/0342-power-of-four) |
 | [0756-pyramid-transition-matrix](https://github.com/ritwik-1810/ritwikkibua/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ritwik-1810/ritwikkibua/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ritwik-1810/ritwikkibua/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0203-remove-linked-list-elements) |
 | [0273-integer-to-english-words](https://github.com/ritwik-1810/ritwikkibua/tree/master/0273-integer-to-english-words) |
+| [0342-power-of-four](https://github.com/ritwik-1810/ritwikkibua/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/ritwik-1810/ritwikkibua/tree/master/0486-predict-the-winner) |
 | [0894-all-possible-full-binary-trees](https://github.com/ritwik-1810/ritwikkibua/tree/master/0894-all-possible-full-binary-trees) |
 | [1922-count-good-numbers](https://github.com/ritwik-1810/ritwikkibua/tree/master/1922-count-good-numbers) |
