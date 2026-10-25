@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/ritwik-1810/ritwikkibua/tree/master/0096-unique-binary-search-trees) |
 | [0152-maximum-product-subarray](https://github.com/ritwik-1810/ritwikkibua/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/ritwik-1810/ritwikkibua/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/ritwik-1810/ritwikkibua/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/ritwik-1810/ritwikkibua/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/ritwik-1810/ritwikkibua/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/ritwik-1810/ritwikkibua/tree/master/0486-predict-the-winner) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/ritwik-1810/ritwikkibua/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ritwik-1810/ritwikkibua/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/ritwik-1810/ritwikkibua/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/ritwik-1810/ritwikkibua/tree/master/0342-power-of-four) |
 | [0756-pyramid-transition-matrix](https://github.com/ritwik-1810/ritwikkibua/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ritwik-1810/ritwikkibua/tree/master/1018-binary-prefix-divisible-by-5) |
