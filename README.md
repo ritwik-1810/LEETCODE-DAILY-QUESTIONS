@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ritwik-1810/ritwikkibua/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1306-jump-game-iii](https://github.com/ritwik-1810/ritwikkibua/tree/master/1306-jump-game-iii) |
+| [1310-xor-queries-of-a-subarray](https://github.com/ritwik-1810/ritwikkibua/tree/master/1310-xor-queries-of-a-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/ritwik-1810/ritwikkibua/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ritwik-1810/ritwikkibua/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/ritwik-1810/ritwikkibua/tree/master/0756-pyramid-transition-matrix) |
 | [1009-complement-of-base-10-integer](https://github.com/ritwik-1810/ritwikkibua/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ritwik-1810/ritwikkibua/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1310-xor-queries-of-a-subarray](https://github.com/ritwik-1810/ritwikkibua/tree/master/1310-xor-queries-of-a-subarray) |
 | [1720-decode-xored-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/1720-decode-xored-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ritwik-1810/ritwikkibua/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2351-first-letter-to-appear-twice](https://github.com/ritwik-1810/ritwikkibua/tree/master/2351-first-letter-to-appear-twice) |
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1310-xor-queries-of-a-subarray](https://github.com/ritwik-1810/ritwikkibua/tree/master/1310-xor-queries-of-a-subarray) |
 | [1590-make-sum-divisible-by-p](https://github.com/ritwik-1810/ritwikkibua/tree/master/1590-make-sum-divisible-by-p) |
 | [1854-maximum-population-year](https://github.com/ritwik-1810/ritwikkibua/tree/master/1854-maximum-population-year) |
 | [1871-jump-game-vii](https://github.com/ritwik-1810/ritwikkibua/tree/master/1871-jump-game-vii) |
