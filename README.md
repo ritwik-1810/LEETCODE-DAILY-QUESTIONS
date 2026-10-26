@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/ritwik-1810/ritwikkibua/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/ritwik-1810/ritwikkibua/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ritwik-1810/ritwikkibua/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ritwik-1810/ritwikkibua/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/ritwik-1810/ritwikkibua/tree/master/0334-increasing-triplet-subsequence) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/ritwik-1810/ritwikkibua/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ritwik-1810/ritwikkibua/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/ritwik-1810/ritwikkibua/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/ritwik-1810/ritwikkibua/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/ritwik-1810/ritwikkibua/tree/master/0424-longest-repeating-character-replacement) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ritwik-1810/ritwikkibua/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/ritwik-1810/ritwikkibua/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/ritwik-1810/ritwikkibua/tree/master/0096-unique-binary-search-trees) |
+| [0268-missing-number](https://github.com/ritwik-1810/ritwikkibua/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/ritwik-1810/ritwikkibua/tree/master/0273-integer-to-english-words) |
 | [0342-power-of-four](https://github.com/ritwik-1810/ritwikkibua/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/ritwik-1810/ritwikkibua/tree/master/0396-rotate-function) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ritwik-1810/ritwikkibua/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/ritwik-1810/ritwikkibua/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ritwik-1810/ritwikkibua/tree/master/0621-task-scheduler) |
 | [0757-set-intersection-size-at-least-two](https://github.com/ritwik-1810/ritwikkibua/tree/master/0757-set-intersection-size-at-least-two) |
@@ -448,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/ritwik-1810/ritwikkibua/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ritwik-1810/ritwikkibua/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ritwik-1810/ritwikkibua/tree/master/0300-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/0729-my-calendar-i) |
@@ -492,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ritwik-1810/ritwikkibua/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/ritwik-1810/ritwikkibua/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/ritwik-1810/ritwikkibua/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ritwik-1810/ritwikkibua/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/ritwik-1810/ritwikkibua/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/ritwik-1810/ritwikkibua/tree/master/0342-power-of-four) |
