@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ritwik-1810/ritwikkibua/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/ritwik-1810/ritwikkibua/tree/master/0355-design-twitter) |
+| [0389-find-the-difference](https://github.com/ritwik-1810/ritwikkibua/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/ritwik-1810/ritwikkibua/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/ritwik-1810/ritwikkibua/tree/master/0460-lfu-cache) |
 | [0525-contiguous-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/0525-contiguous-array) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ritwik-1810/ritwikkibua/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/ritwik-1810/ritwikkibua/tree/master/0389-find-the-difference) |
 | [0621-task-scheduler](https://github.com/ritwik-1810/ritwikkibua/tree/master/0621-task-scheduler) |
 | [0757-set-intersection-size-at-least-two](https://github.com/ritwik-1810/ritwikkibua/tree/master/0757-set-intersection-size-at-least-two) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ritwik-1810/ritwikkibua/tree/master/0759-set-intersection-size-at-least-two) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ritwik-1810/ritwikkibua/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0273-integer-to-english-words](https://github.com/ritwik-1810/ritwikkibua/tree/master/0273-integer-to-english-words) |
 | [0316-remove-duplicate-letters](https://github.com/ritwik-1810/ritwikkibua/tree/master/0316-remove-duplicate-letters) |
+| [0389-find-the-difference](https://github.com/ritwik-1810/ritwikkibua/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/ritwik-1810/ritwikkibua/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/ritwik-1810/ritwikkibua/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/ritwik-1810/ritwikkibua/tree/master/0474-ones-and-zeroes) |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ritwik-1810/ritwikkibua/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/ritwik-1810/ritwikkibua/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/ritwik-1810/ritwikkibua/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/ritwik-1810/ritwikkibua/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/ritwik-1810/ritwikkibua/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ritwik-1810/ritwikkibua/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/ritwik-1810/ritwikkibua/tree/master/0756-pyramid-transition-matrix) |
