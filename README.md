@@ -498,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/ritwik-1810/ritwikkibua/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ritwik-1810/ritwikkibua/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/ritwik-1810/ritwikkibua/tree/master/0756-pyramid-transition-matrix) |
+| [1009-complement-of-base-10-integer](https://github.com/ritwik-1810/ritwikkibua/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ritwik-1810/ritwikkibua/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ritwik-1810/ritwikkibua/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2351-first-letter-to-appear-twice](https://github.com/ritwik-1810/ritwikkibua/tree/master/2351-first-letter-to-appear-twice) |
