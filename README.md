@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1652-defuse-the-bomb](https://github.com/ritwik-1810/ritwikkibua/tree/master/1652-defuse-the-bomb) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ritwik-1810/ritwikkibua/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1720-decode-xored-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/1720-decode-xored-array) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/ritwik-1810/ritwikkibua/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ritwik-1810/ritwikkibua/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1854-maximum-population-year](https://github.com/ritwik-1810/ritwikkibua/tree/master/1854-maximum-population-year) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/ritwik-1810/ritwikkibua/tree/master/0756-pyramid-transition-matrix) |
 | [1009-complement-of-base-10-integer](https://github.com/ritwik-1810/ritwikkibua/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ritwik-1810/ritwikkibua/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1720-decode-xored-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/1720-decode-xored-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ritwik-1810/ritwikkibua/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2351-first-letter-to-appear-twice](https://github.com/ritwik-1810/ritwikkibua/tree/master/2351-first-letter-to-appear-twice) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ritwik-1810/ritwikkibua/tree/master/3676-smallest-number-with-all-set-bits) |
