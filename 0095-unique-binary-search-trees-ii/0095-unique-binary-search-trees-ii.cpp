@@ -11,47 +11,41 @@
  */
 class Solution {
 public:
-    vector<TreeNode*> solve(int start,int end)
+    vector<TreeNode*>solve(int l,int r)
     {
-          if(start>end) return {nullptr};
+        if(l>r) return {nullptr};
 
-          if(start==end)
-          {
-              return {new TreeNode(start)};
-          }
+        if(l==r) return {new TreeNode(l)};
 
-          
-          vector<TreeNode*>result;
+        vector<TreeNode*>result;
 
-          for(int i=start;i<=end;i++)
-          {
-              
-            vector<TreeNode*>leftBST=solve(start,i-1);
+        for(int i=l;i<=r;i++)
+        {
+             vector<TreeNode*>leftRoot=solve(l,i-1);
 
-            vector<TreeNode*>rightBST=solve(i+1,end);
+             vector<TreeNode*>rightRoot=solve(i+1,r);
 
-            for(int j=0;j<leftBST.size();j++)
-            {
-                for(int k=0;k<rightBST.size();k++)
+             for(int j=0;j<leftRoot.size();j++)
+             {
+                for(int k=0;k<rightRoot.size();k++)
                 {
                     TreeNode* root=new TreeNode(i);
 
-                    root->left=leftBST[j];
+                    root->left=leftRoot[j];
 
-                    root->right=rightBST[k];
+                    root->right=rightRoot[k];
 
                     result.push_back(root);
                 }
+             }
+        }
 
-            }
-             
-          }
-
-          return result;
+        return result;
+        
     }
     vector<TreeNode*> generateTrees(int n) {
 
-         return solve(1,n);
+          return solve(1,n);
         
     }
 };
