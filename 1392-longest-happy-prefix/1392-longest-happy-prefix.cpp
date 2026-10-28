@@ -6,6 +6,8 @@ public:
 
         vector<int>LPS(size);
 
+        if(size==0) return "";
+
         int pref=0;
 
         int suff=1;
@@ -34,8 +36,6 @@ public:
                 }
             }
         }
-
-        if(LPS[size-1]==0) return "";
 
         return s.substr(0,LPS[size-1]);
         
