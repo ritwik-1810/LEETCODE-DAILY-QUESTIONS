@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ritwik-1810/ritwikkibua/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1177-can-make-palindrome-from-substring](https://github.com/ritwik-1810/ritwikkibua/tree/master/1177-can-make-palindrome-from-substring) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ritwik-1810/ritwikkibua/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1392-longest-happy-prefix](https://github.com/ritwik-1810/ritwikkibua/tree/master/1392-longest-happy-prefix) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ritwik-1810/ritwikkibua/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ritwik-1810/ritwikkibua/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1871-jump-game-vii](https://github.com/ritwik-1810/ritwikkibua/tree/master/1871-jump-game-vii) |
@@ -803,8 +804,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/ritwik-1810/ritwikkibua/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ritwik-1810/ritwikkibua/tree/master/0706-design-hashmap) |
+| [1392-longest-happy-prefix](https://github.com/ritwik-1810/ritwikkibua/tree/master/1392-longest-happy-prefix) |
 ## Iterator
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ritwik-1810/ritwikkibua/tree/master/0173-binary-search-tree-iterator) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/ritwik-1810/ritwikkibua/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/ritwik-1810/ritwikkibua/tree/master/1392-longest-happy-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/ritwik-1810/ritwikkibua/tree/master/1392-longest-happy-prefix) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/ritwik-1810/ritwikkibua/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
