@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ritwik-1810/ritwikkibua/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/ritwik-1810/ritwikkibua/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ritwik-1810/ritwikkibua/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0095-unique-binary-search-trees-ii) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritwik-1810/ritwikkibua/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/ritwik-1810/ritwikkibua/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/ritwik-1810/ritwikkibua/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/ritwik-1810/ritwikkibua/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ritwik-1810/ritwikkibua/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0273-integer-to-english-words](https://github.com/ritwik-1810/ritwikkibua/tree/master/0273-integer-to-english-words) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ritwik-1810/ritwikkibua/tree/master/0010-regular-expression-matching) |
 | [0203-remove-linked-list-elements](https://github.com/ritwik-1810/ritwikkibua/tree/master/0203-remove-linked-list-elements) |
 | [0273-integer-to-english-words](https://github.com/ritwik-1810/ritwikkibua/tree/master/0273-integer-to-english-words) |
 | [0342-power-of-four](https://github.com/ritwik-1810/ritwikkibua/tree/master/0342-power-of-four) |
