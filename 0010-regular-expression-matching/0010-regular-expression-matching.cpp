@@ -2,10 +2,8 @@ class Solution {
 public:
     bool solve(string &s,string &p,int i,int j)
     {
-         if(i>=s.size() && j>=p.size()) return true;
+         if(j>=p.size()) return i>=s.size();
 
-         if(j>=p.size()) return false;
-         
          bool take=false;
 
          bool nottake=false;
