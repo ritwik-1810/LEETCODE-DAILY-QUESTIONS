@@ -14,7 +14,9 @@ public:
         {
             if(!vis[key])
             {
-                dfs(key,to,vis,adjList,totVal*val,sol);
+                totVal*=val;
+                dfs(key,to,vis,adjList,totVal,sol);
+                totVal/=val;
             }
         }
 
