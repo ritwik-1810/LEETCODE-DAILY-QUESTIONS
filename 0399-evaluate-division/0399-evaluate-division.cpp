@@ -1,9 +1,12 @@
 class Solution {
 public:
-    bool dfs(string from,string to,unordered_map<string,bool>&vis,unordered_map<string,vector<pair<string,double>>>&adjList,double &totVal)
+    void dfs(string from,string to,unordered_map<string,bool>&vis,unordered_map<string,vector<pair<string,double>>>&adjList,double totVal,double &sol)
     {
         if(from == to)
-          return true;
+        {
+           sol=totVal;
+           return;
+        }
         
         vis[from]=true;
 
@@ -11,15 +14,11 @@ public:
         {
             if(!vis[key])
             {
-                if(dfs(key,to,vis,adjList,totVal))
-                {
-                    totVal*=val;
-                    return true;
-                }
+                dfs(key,to,vis,adjList,totVal*val,sol);
             }
         }
 
-        return false;
+        return;
     }
     vector<double> calcEquation(vector<vector<string>>& equations, vector<double>& values, vector<vector<string>>& queries) {
 
@@ -44,20 +43,19 @@ public:
         {
             string from=queries[i][0];
             string to=queries[i][1];
+
+            double sol=-1.0;
                 
             if(!adjList.count(from) || !adjList.count(to))
-{
-    ans.push_back(-1.0);
-    continue;
-}
+            {
+              ans.push_back(-1.0);
+              continue;
+            }
            
-                unordered_map<string,bool>vis;
-                double totVal=1.0;
-                bool dfsCall=dfs(from,to,vis,adjList,totVal);
-                if(dfsCall)
-                ans.push_back(totVal);
-                else
-                ans.push_back(-1*1.0);
+              unordered_map<string,bool>vis;
+              double totVal=1.0;
+              dfs(from,to,vis,adjList,totVal,sol);
+              ans.push_back(sol);
             
         }
 
