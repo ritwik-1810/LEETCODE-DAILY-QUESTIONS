@@ -12,7 +12,7 @@ public:
         {
            curr+=diff[i];
 
-           nums[i]=nums[i]+curr;
+           nums[i]=nums[i]-curr;
 
            if(nums[i]==0) continue;
 
@@ -20,9 +20,9 @@ public:
 
            if(i+k>size) return false;
 
-           curr-=nums[i];
+           curr+=nums[i];
 
-           diff[i+k]=nums[i];
+           diff[i+k]=-nums[i];
 
         }
          
