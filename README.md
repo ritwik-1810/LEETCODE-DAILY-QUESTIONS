@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/ritwik-1810/ritwikkibua/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/ritwik-1810/ritwikkibua/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3026-maximum-good-subarray-sum](https://github.com/ritwik-1810/ritwikkibua/tree/master/3026-maximum-good-subarray-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ritwik-1810/ritwikkibua/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ritwik-1810/ritwikkibua/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ritwik-1810/ritwikkibua/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-task-scheduler-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/2483-task-scheduler-ii) |
 | [2615-sum-of-distances](https://github.com/ritwik-1810/ritwikkibua/tree/master/2615-sum-of-distances) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ritwik-1810/ritwikkibua/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3026-maximum-good-subarray-sum](https://github.com/ritwik-1810/ritwikkibua/tree/master/3026-maximum-good-subarray-sum) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -734,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/ritwik-1810/ritwikkibua/tree/master/2615-sum-of-distances) |
 | [2625-increment-submatrices-by-one](https://github.com/ritwik-1810/ritwikkibua/tree/master/2625-increment-submatrices-by-one) |
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/ritwik-1810/ritwikkibua/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
+| [3026-maximum-good-subarray-sum](https://github.com/ritwik-1810/ritwikkibua/tree/master/3026-maximum-good-subarray-sum) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ritwik-1810/ritwikkibua/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Binary Search Tree
