@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ritwik-1810/ritwikkibua/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3620-network-recovery-pathways](https://github.com/ritwik-1810/ritwikkibua/tree/master/3620-network-recovery-pathways) |
+| [3693-climbing-stairs-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/3693-climbing-stairs-ii) |
 | [3797-design-spreadsheet](https://github.com/ritwik-1810/ritwikkibua/tree/master/3797-design-spreadsheet) |
 | [3863-power-grid-maintenance](https://github.com/ritwik-1810/ritwikkibua/tree/master/3863-power-grid-maintenance) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ritwik-1810/ritwikkibua/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2786-visit-array-positions-to-maximize-score](https://github.com/ritwik-1810/ritwikkibua/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ritwik-1810/ritwikkibua/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3620-network-recovery-pathways](https://github.com/ritwik-1810/ritwikkibua/tree/master/3620-network-recovery-pathways) |
+| [3693-climbing-stairs-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/3693-climbing-stairs-ii) |
 ## Backtracking
 |  |
 | ------- |
