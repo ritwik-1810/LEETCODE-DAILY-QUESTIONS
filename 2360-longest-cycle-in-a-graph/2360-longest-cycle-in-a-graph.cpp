@@ -39,11 +39,13 @@ public:
             if(!vis[i])
             {
             
-            int max1=0;
+             int max1=0;
 
-            DFS(edges,inRecur,vis,count,max1,i);
+             count[i]=1;
 
-            if(max1>0) maxi=max(maxi,max1);
+             DFS(edges,inRecur,vis,count,max1,i);
+
+             if(max1>0) maxi=max(maxi,max1);
 
             }
  
