@@ -10,13 +10,12 @@ public:
         
         if(v!=-1 && !vis[v])
         {
-            count[v]+=count[i];
+            count[v]=count[i]+1;
             DFS(edges,inRecur,vis,count,maxi,v);
         }
         else if(v!=-1 && inRecur[v])
         {
             maxi = max(maxi,count[i]-count[v]+1);
-            return;
         }
         
 
@@ -31,20 +30,22 @@ public:
 
         vector<bool>vis(size);
 
+        vector<int>count(size,1);
 
         int maxi=-1;
 
-        vector<int>count(size,1);
-
         for(int i=0;i<size;i++)
         {
+            if(!vis[i])
+            {
             
-
             int max1=0;
 
             DFS(edges,inRecur,vis,count,max1,i);
 
             if(max1>0) maxi=max(maxi,max1);
+
+            }
  
         }
 
