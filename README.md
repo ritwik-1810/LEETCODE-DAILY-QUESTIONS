@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/ritwik-1810/ritwikkibua/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ritwik-1810/ritwikkibua/tree/master/0706-design-hashmap) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ritwik-1810/ritwikkibua/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0721-accounts-merge](https://github.com/ritwik-1810/ritwikkibua/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/ritwik-1810/ritwikkibua/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/ritwik-1810/ritwikkibua/tree/master/0735-asteroid-collision) |
 | [0741-cherry-pickup](https://github.com/ritwik-1810/ritwikkibua/tree/master/0741-cherry-pickup) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/ritwik-1810/ritwikkibua/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ritwik-1810/ritwikkibua/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ritwik-1810/ritwikkibua/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/ritwik-1810/ritwikkibua/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/ritwik-1810/ritwikkibua/tree/master/0752-open-the-lock) |
 | [0787-sliding-puzzle](https://github.com/ritwik-1810/ritwikkibua/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/ritwik-1810/ritwikkibua/tree/master/0794-swim-in-rising-water) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ritwik-1810/ritwikkibua/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/ritwik-1810/ritwikkibua/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ritwik-1810/ritwikkibua/tree/master/0706-design-hashmap) |
+| [0721-accounts-merge](https://github.com/ritwik-1810/ritwikkibua/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/ritwik-1810/ritwikkibua/tree/master/0752-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/ritwik-1810/ritwikkibua/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/ritwik-1810/ritwikkibua/tree/master/0763-partition-labels) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ritwik-1810/ritwikkibua/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/ritwik-1810/ritwikkibua/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/ritwik-1810/ritwikkibua/tree/master/0721-accounts-merge) |
 | [0757-set-intersection-size-at-least-two](https://github.com/ritwik-1810/ritwikkibua/tree/master/0757-set-intersection-size-at-least-two) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ritwik-1810/ritwikkibua/tree/master/0759-set-intersection-size-at-least-two) |
 | [0846-hand-of-straights](https://github.com/ritwik-1810/ritwikkibua/tree/master/0846-hand-of-straights) |
@@ -431,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/ritwik-1810/ritwikkibua/tree/master/0481-magical-string) |
 | [0680-valid-palindrome-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ritwik-1810/ritwikkibua/tree/master/0696-count-binary-substrings) |
+| [0721-accounts-merge](https://github.com/ritwik-1810/ritwikkibua/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/ritwik-1810/ritwikkibua/tree/master/0752-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/ritwik-1810/ritwikkibua/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/ritwik-1810/ritwikkibua/tree/master/0763-partition-labels) |
@@ -512,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/ritwik-1810/ritwikkibua/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ritwik-1810/ritwikkibua/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ritwik-1810/ritwikkibua/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/ritwik-1810/ritwikkibua/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/ritwik-1810/ritwikkibua/tree/master/0794-swim-in-rising-water) |
 | [0841-keys-and-rooms](https://github.com/ritwik-1810/ritwikkibua/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ritwik-1810/ritwikkibua/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -768,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/ritwik-1810/ritwikkibua/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ritwik-1810/ritwikkibua/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ritwik-1810/ritwikkibua/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/ritwik-1810/ritwikkibua/tree/master/0721-accounts-merge) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/2812-find-the-safest-path-in-a-grid) |
