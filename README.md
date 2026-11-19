@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ritwik-1810/ritwikkibua/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0399-evaluate-division](https://github.com/ritwik-1810/ritwikkibua/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/ritwik-1810/ritwikkibua/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ritwik-1810/ritwikkibua/tree/master/0684-redundant-connection) |
 | [0752-open-the-lock](https://github.com/ritwik-1810/ritwikkibua/tree/master/0752-open-the-lock) |
 | [0787-sliding-puzzle](https://github.com/ritwik-1810/ritwikkibua/tree/master/0787-sliding-puzzle) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ritwik-1810/ritwikkibua/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ritwik-1810/ritwikkibua/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0399-evaluate-division](https://github.com/ritwik-1810/ritwikkibua/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/ritwik-1810/ritwikkibua/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ritwik-1810/ritwikkibua/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/ritwik-1810/ritwikkibua/tree/master/0794-swim-in-rising-water) |
 | [0841-keys-and-rooms](https://github.com/ritwik-1810/ritwikkibua/tree/master/0841-keys-and-rooms) |
@@ -764,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/ritwik-1810/ritwikkibua/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/ritwik-1810/ritwikkibua/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ritwik-1810/ritwikkibua/tree/master/0684-redundant-connection) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -772,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/ritwik-1810/ritwikkibua/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/ritwik-1810/ritwikkibua/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ritwik-1810/ritwikkibua/tree/master/0684-redundant-connection) |
 | [2360-longest-cycle-in-a-graph](https://github.com/ritwik-1810/ritwikkibua/tree/master/2360-longest-cycle-in-a-graph) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/ritwik-1810/ritwikkibua/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
