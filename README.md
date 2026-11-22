@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ritwik-1810/ritwikkibua/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ritwik-1810/ritwikkibua/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ritwik-1810/ritwikkibua/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ritwik-1810/ritwikkibua/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ritwik-1810/ritwikkibua/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ritwik-1810/ritwikkibua/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritwik-1810/ritwikkibua/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/ritwik-1810/ritwikkibua/tree/master/0424-longest-repeating-character-replacement) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/ritwik-1810/ritwikkibua/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ritwik-1810/ritwikkibua/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/ritwik-1810/ritwikkibua/tree/master/1652-defuse-the-bomb) |
 | [1871-jump-game-vii](https://github.com/ritwik-1810/ritwikkibua/tree/master/1871-jump-game-vii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ritwik-1810/ritwikkibua/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1177-can-make-palindrome-from-substring](https://github.com/ritwik-1810/ritwikkibua/tree/master/1177-can-make-palindrome-from-substring) |
 | [1310-xor-queries-of-a-subarray](https://github.com/ritwik-1810/ritwikkibua/tree/master/1310-xor-queries-of-a-subarray) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ritwik-1810/ritwikkibua/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ritwik-1810/ritwikkibua/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1590-make-sum-divisible-by-p](https://github.com/ritwik-1810/ritwikkibua/tree/master/1590-make-sum-divisible-by-p) |
 | [1854-maximum-population-year](https://github.com/ritwik-1810/ritwikkibua/tree/master/1854-maximum-population-year) |
