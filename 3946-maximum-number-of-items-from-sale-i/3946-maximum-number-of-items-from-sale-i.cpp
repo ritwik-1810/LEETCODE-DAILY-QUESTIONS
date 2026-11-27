@@ -23,7 +23,7 @@ public:
              take = 1 + findMaximumItems(i,items,freeItems,true,budget-items[i][1]);
           }
 
-          notTake = 0 + findMaximumItems(i+1,items,freeItems,false,budget);
+            notTake = 0 + findMaximumItems(i+1,items,freeItems,false,budget);
         }
         else
         {
