@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2483-task-scheduler-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/2483-task-scheduler-ii) |
+| [2501-longest-square-streak-in-an-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/2501-longest-square-streak-in-an-array) |
 | [2615-sum-of-distances](https://github.com/ritwik-1810/ritwikkibua/tree/master/2615-sum-of-distances) |
 | [2625-increment-submatrices-by-one](https://github.com/ritwik-1810/ritwikkibua/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ritwik-1810/ritwikkibua/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/ritwik-1810/ritwikkibua/tree/master/2054-two-best-non-overlapping-events) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2466-count-ways-to-build-good-strings](https://github.com/ritwik-1810/ritwikkibua/tree/master/2466-count-ways-to-build-good-strings) |
+| [2501-longest-square-streak-in-an-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/2501-longest-square-streak-in-an-array) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/ritwik-1810/ritwikkibua/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ritwik-1810/ritwikkibua/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3620-network-recovery-pathways](https://github.com/ritwik-1810/ritwikkibua/tree/master/3620-network-recovery-pathways) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ritwik-1810/ritwikkibua/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/ritwik-1810/ritwikkibua/tree/master/2351-first-letter-to-appear-twice) |
 | [2483-task-scheduler-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/2483-task-scheduler-ii) |
+| [2501-longest-square-streak-in-an-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/2501-longest-square-streak-in-an-array) |
 | [2615-sum-of-distances](https://github.com/ritwik-1810/ritwikkibua/tree/master/2615-sum-of-distances) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ritwik-1810/ritwikkibua/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3026-maximum-good-subarray-sum](https://github.com/ritwik-1810/ritwikkibua/tree/master/3026-maximum-good-subarray-sum) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/ritwik-1810/ritwikkibua/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ritwik-1810/ritwikkibua/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/ritwik-1810/ritwikkibua/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2501-longest-square-streak-in-an-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/2501-longest-square-streak-in-an-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/ritwik-1810/ritwikkibua/tree/master/2887-sort-vowels-in-a-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ritwik-1810/ritwikkibua/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ritwik-1810/ritwikkibua/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -512,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/ritwik-1810/ritwikkibua/tree/master/1901-find-a-peak-element-ii) |
 | [2054-two-best-non-overlapping-events](https://github.com/ritwik-1810/ritwikkibua/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ritwik-1810/ritwikkibua/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2501-longest-square-streak-in-an-array](https://github.com/ritwik-1810/ritwikkibua/tree/master/2501-longest-square-streak-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ritwik-1810/ritwikkibua/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/ritwik-1810/ritwikkibua/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
