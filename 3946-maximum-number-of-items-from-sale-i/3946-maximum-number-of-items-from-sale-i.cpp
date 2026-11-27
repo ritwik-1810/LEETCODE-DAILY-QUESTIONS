@@ -54,7 +54,45 @@ public:
             }
         }
 
-        return findMaximumItems(0,items,freeItems,false,budget);
+        for(int i=size-1;i>=0;i--)
+        {
+            int price = items[i][1];
+
+            for(int b = 0 ; b<=budget ; b++)
+            {
+                for(int t = 0;t<=1;t++)
+                {
+                     int take=0;
+
+        int notTake=0;
+
+        if(b-items[i][1]>=0)
+        {
+          if(t==false)
+          {
+             take = 1 + freeItems[i] + dp[i][b-price][1];
+          }
+          else
+          {
+             take = 1 + dp[i][b-price][1];
+          }
+
+            notTake = 0 + dp[i+1][b][0];
+        }
+        else
+        {
+            notTake= 0 + dp[i+1][b][0];
+        }
+
+         dp[i][b][t] = max(take,notTake);
+        
+                }
+            }
+        }
+
+        return dp[0][budget][0];
+
+        //return findMaximumItems(0,items,freeItems,false,budget);
         
     }
 };
